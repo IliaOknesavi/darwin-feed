@@ -9953,6 +9953,27 @@ Indigo Jam любит солнце, но урожай выше в частичн
         <param name="Фасовка">Кашпо</param>
         <param name="Доступность">много</param>
       </offer>
+      <offer id="2163" available="true">
+        <url>https://darwinshop.ru/shop/goods/pion_dyushese_de_nemur_bakchar_-2163</url>
+        <price>200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2165.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2173.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1499.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1497.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1495.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Пион Дюшесе де Немур (Бакчар)</name>
+        <description>&lt;h3&gt;Описание&lt;/h3&gt;
+Пионы - одни из самых красивых и наиболее распространенных многолетников.&lt;br/&gt; &lt;br/&gt; Многочисленные садовые формы и сорта различаются размерами, строением и окраской цветов, сроками и продолжительностью цветения.&lt;br/&gt; &lt;br/&gt; Пионы лучше растут на открытом или слегка затененном, но защищенном от ветра месте.&lt;br/&gt; &lt;br/&gt; Лучшее время посадки пионов вторая половина августа и начало сентября, когда заканчивается у них формирование почек будущего года.&lt;br/&gt; &lt;br/&gt; Высаживают пионы так, чтобы почки были выше, чем сидели до пересадки на 1-2 см.&lt;br/&gt; &lt;br/&gt; При заглубленной посадке пионы могут не цвести в течение многих лет или плохо цвести.&lt;br/&gt; &lt;br/&gt; В этом случае приходится приподнимать куст пиона лопатами с двух сторон. После чего растения зацветают на следующий год.</description>
+        <param name="Фасовка">Деленка</param>
+        <param name="Доступность">в наличии</param>
+        <param name="Размер цветка">16 см</param>
+        <param name="Время цветения">Пышное цветение в начале лета</param>
+        <param name="Высота растения">90 - 100 см</param>
+        <param name="Окраска цветка">Белый</param>
+      </offer>
       <offer id="2173" available="true">
         <url>https://darwinshop.ru/shop/goods/pion_janna_d_ark_bakchar_-2173</url>
         <price>890</price>
