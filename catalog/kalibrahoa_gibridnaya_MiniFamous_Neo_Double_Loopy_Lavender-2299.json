@@ -1,0 +1,35 @@
+{
+  "slug": "kalibrahoa_gibridnaya_MiniFamous_Neo_Double_Loopy_Lavender-2299",
+  "url": "https://darwinshop.ru/shop/goods/kalibrahoa_gibridnaya_MiniFamous_Neo_Double_Loopy_Lavender-2299",
+  "name": "Калибрахоа Гибридная MiniFamous Neo Double Loopy Lavender",
+  "culture": "Калибрахоа",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Калибрахоа"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Сиреневый",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "25-30, длина побегов до 60 см",
+    "Сорт": "MiniFamous",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2299-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/kalibrahoa_gibridnaya_MiniFamous_Neo_Double_Loopy_Lavender-2299.html",
+  "fetched_at": "2026-08-02T01:22:43.706439Z",
+  "parser_version": "0.1.0"
+}

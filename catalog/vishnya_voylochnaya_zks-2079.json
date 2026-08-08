@@ -1,0 +1,45 @@
+{
+  "slug": "vishnya_voylochnaya_zks-2079",
+  "url": "https://darwinshop.ru/shop/goods/vishnya_voylochnaya_zks-2079",
+  "name": "Вишня войлочная ЗКС",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Цвет плода": "красный",
+    "Фасовка": "ЗКС",
+    "Размер саженца": "0,3м-0,4м",
+    "Созревание": "В конце августа – начале сентября.",
+    "Масса плода": "3-4г",
+    "Вкус плода": "сладко-кислый"
+  },
+  "description_html": "<h3>Устойчивость</h3>\nЗимостойкость древесины и почек высокая. Засухоустойчив. К коккомикозу и монилиозу восприимчив. Устойчив к вредителям.",
+  "description_text": "Устойчивость\nЗимостойкость древесины и почек высокая. Засухоустойчив. К коккомикозу и монилиозу восприимчив. Устойчив к вредителям.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1905.jpg",
+      "alt": "Вишня степная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2999.jpg",
+      "alt": "Вишня "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2847.jpg",
+      "alt": "Вишня песчаная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2997.jpg",
+      "alt": "Вишня "
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-08T19:57:15.125138+00:00",
+  "parser_version": "fetch_missing-1"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "chubushnik_gnom_-2081",
+  "url": "https://darwinshop.ru/shop/goods/chubushnik_gnom_-2081",
+  "name": "Чубушник \"Гном\"",
+  "culture": "Чубушник",
+  "category_path": [
+    "Каталог",
+    "Декоративные культуры",
+    "Чубушник"
+  ],
+  "price_rub": 320.0,
+  "price_text": "320 ₽",
+  "availability": "много",
+  "attributes": {
+    "Производитель": "г. Томск, ООО \"Дарвин\"",
+    "Фасовка": "ОКС",
+    "Доступность": "много"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/kernel/preview.php?file=shop/goods/nophoto.jpg&width=300&height=300&method=add",
+      "alt": "nophoto"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-02T00:00:00Z",
+  "parser_version": "manual-webfetch",
+  "notes": [
+    "Файл создан вручную: карточки в data/catalog/products/ не было, страница снята одним WebFetch 2026-08-02.",
+    "Описание товара на странице отсутствует полностью (пустой блок).",
+    "Атрибутов всего три; Период цветения, Цвет цветка, Рост взрослого растения, Цвет растения, Место посадки не заполнены.",
+    "Фотографии нет — отдаётся плейсхолдер nophoto.jpg.",
+    "Скидка не показана, цена одна.",
+    "raw_html не сохранён: страница получена через WebFetch (markdown), а не парсером."
+  ]
+}

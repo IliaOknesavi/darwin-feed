@@ -1,0 +1,31 @@
+{
+  "slug": "malina_krupnoplodnaya_kaskad_delayt_-2035",
+  "url": "https://darwinshop.ru/shop/goods/malina_krupnoplodnaya_kaskad_delayt_-2035",
+  "name": "Малина крупноплодная \"Каскад Делайт\"",
+  "culture": "Малина",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Малина"
+  ],
+  "price_rub": 250.0,
+  "price_text": "250 ₽",
+  "availability": "много",
+  "attributes": {
+    "Срок созревания": "среднеранний",
+    "Зона морозостойкости": "Зона 4: от -34,4 до -28,9 градусов Цельсия",
+    "Фасовка": "ЗКС",
+    "Доступность": "много"
+  },
+  "description_html": "<h3>Устойчивость</h3>\nЗимостойкость умеренная до -34. Сорт устойчив к основным грибным болезням малины, однако чувствителен к паутинному клещу и вирусным болезням.",
+  "description_text": "Устойчивость\nЗимостойкость умеренная до -34. Сорт устойчив к основным грибным болезням малины, однако чувствителен к паутинному клещу и вирусным болезням.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2035-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/malina_krupnoplodnaya_kaskad_delayt_-2035.html",
+  "fetched_at": "2026-08-02T01:19:45.898785Z",
+  "parser_version": "0.1.0"
+}

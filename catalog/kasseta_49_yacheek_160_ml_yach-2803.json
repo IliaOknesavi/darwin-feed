@@ -1,0 +1,28 @@
+{
+  "slug": "kasseta_49_yacheek_160_ml_yach-2803",
+  "url": "https://darwinshop.ru/shop/goods/kasseta_49_yacheek_160_ml_yach-2803",
+  "name": "Кассета 49 ячеек, 160 мл/яч",
+  "culture": "Грунт",
+  "category_path": [
+    "Каталог",
+    "Грунт",
+    "Грунт"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/kasseta_49_yacheek_160_ml_yach-2803.html",
+  "fetched_at": "2026-08-02T01:25:48.738808Z",
+  "parser_version": "0.1.0"
+}

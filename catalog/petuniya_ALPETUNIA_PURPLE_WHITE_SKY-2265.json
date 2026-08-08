@@ -1,0 +1,39 @@
+{
+  "slug": "petuniya_ALPETUNIA_PURPLE_WHITE_SKY-2265",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_ALPETUNIA_PURPLE_WHITE_SKY-2265",
+  "name": "Петуния ALPETUNIA PURPLE WHITE SKY",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Белый, Фуксия",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "25-30, длина побегов до 80 см",
+    "Сорт": "AlpeTunia",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nСерия ALPETUNIA -ампельная петуния с хорошим темпом роста. Высота 25-30 см, длина побегов до 80 см. Цветы среднего размера 5-6 см. Хорошая устойчивость к погодным условиям. Отличная приживаемость.",
+  "description_text": "Описание\nСерия ALPETUNIA -ампельная петуния с хорошим темпом роста. Высота 25-30 см, длина побегов до 80 см. Цветы среднего размера 5-6 см. Хорошая устойчивость к погодным условиям. Отличная приживаемость.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2265-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2265-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_ALPETUNIA_PURPLE_WHITE_SKY-2265.html",
+  "fetched_at": "2026-08-02T01:22:05.498162Z",
+  "parser_version": "0.1.0"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "krasnaya_smorodina_ulyublena_-1973",
+  "url": "https://darwinshop.ru/shop/goods/krasnaya_smorodina_ulyublena_-1973",
+  "name": "Красная смородина \"Улюблена\"",
+  "culture": "Смородина",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Смородина"
+  ],
+  "price_rub": 350.0,
+  "price_text": "350 ₽",
+  "availability": "много",
+  "attributes": {
+    "Срок созревания": "среднеранний",
+    "Дегустационная оценка, максимум 5 баллов": "4,5",
+    "Зона морозостойкости": "Зона 3: от -40,0 до -34,5 градусов Цельсия",
+    "Фасовка": "ОКС",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/krasnaya_smorodina_ulyublena_-1973.html",
+  "fetched_at": "2026-08-02T01:19:19.487187Z",
+  "parser_version": "0.1.0"
+}

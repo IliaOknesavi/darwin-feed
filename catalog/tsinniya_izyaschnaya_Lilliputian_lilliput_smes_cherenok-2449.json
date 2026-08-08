@@ -1,0 +1,37 @@
+{
+  "slug": "tsinniya_izyaschnaya_Lilliputian_lilliput_smes_cherenok-2449",
+  "url": "https://darwinshop.ru/shop/goods/tsinniya_izyaschnaya_Lilliputian_lilliput_smes_cherenok-2449",
+  "name": "Цинния изящная Lilliputian, Лиллипут смесь, черенок",
+  "culture": "Цинния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Цинния"
+  ],
+  "price_rub": 39.0,
+  "price_text": "39 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Смесь",
+    "Фасовка": "Укор.черенок",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "35"
+  },
+  "description_html": "<h3>Описание</h3>\nЦинния – красиво цветущее растение, образующее отдельный род семейства Астровые. Цветет с середины лета, до заморозков, не теряя своей декоративности.",
+  "description_text": "Описание\nЦинния – красиво цветущее растение, образующее отдельный род семейства Астровые. Цветет с середины лета, до заморозков, не теряя своей декоративности.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2449-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2449-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/tsinniya_izyaschnaya_Lilliputian_lilliput_smes_cherenok-2449.html",
+  "fetched_at": "2026-08-02T01:24:02.721462Z",
+  "parser_version": "0.1.0"
+}

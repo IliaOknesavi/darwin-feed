@@ -1,0 +1,35 @@
+{
+  "slug": "kalibrahoa_Tik_Tok_Grape-2293",
+  "url": "https://darwinshop.ru/shop/goods/kalibrahoa_Tik_Tok_Grape-2293",
+  "name": "Калибрахоа Tik Tok® Grape",
+  "culture": "Калибрахоа",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Калибрахоа"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Фиолетовый",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "25-30, длина побегов до 50 см",
+    "Сорт": "Tik Tok",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2293-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/kalibrahoa_Tik_Tok_Grape-2293.html",
+  "fetched_at": "2026-08-02T01:22:37.150007Z",
+  "parser_version": "0.1.0"
+}

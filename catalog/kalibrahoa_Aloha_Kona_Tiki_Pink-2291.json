@@ -1,0 +1,35 @@
+{
+  "slug": "kalibrahoa_Aloha_Kona_Tiki_Pink-2291",
+  "url": "https://darwinshop.ru/shop/goods/kalibrahoa_Aloha_Kona_Tiki_Pink-2291",
+  "name": "Калибрахоа Aloha Kona Tiki Pink",
+  "culture": "Калибрахоа",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Калибрахоа"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Розовый",
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "25-30, длина побегов до 50 см",
+    "Сорт": "Aloha",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2291-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/kalibrahoa_Aloha_Kona_Tiki_Pink-2291.html",
+  "fetched_at": "2026-08-02T01:22:34.998948Z",
+  "parser_version": "0.1.0"
+}

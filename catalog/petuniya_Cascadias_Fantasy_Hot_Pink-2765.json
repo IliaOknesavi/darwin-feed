@@ -1,0 +1,35 @@
+{
+  "slug": "petuniya_Cascadias_Fantasy_Hot_Pink-2765",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Cascadias_Fantasy_Hot_Pink-2765",
+  "name": "Петуния Cascadias Fantasy Hot Pink",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": 399.0,
+  "price_text": "399 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Розовый",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 100 см",
+    "Сорт": "Cascadias",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_Cascadias_Fantasy_Hot_Pink-2765.html",
+  "fetched_at": "2026-08-02T01:25:23.960743Z",
+  "parser_version": "0.1.0"
+}

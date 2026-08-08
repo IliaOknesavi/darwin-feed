@@ -1,0 +1,33 @@
+{
+  "slug": "petuniya_v_kashpo_miks_-1635",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_v_kashpo_miks_-1635",
+  "name": "Петуния в кашпо (Микс)",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": 500.0,
+  "price_text": "500 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "Кашпо",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1635-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1635-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_v_kashpo_miks_-1635.html",
+  "fetched_at": "2026-08-02T01:18:18.604465Z",
+  "parser_version": "0.1.0"
+}

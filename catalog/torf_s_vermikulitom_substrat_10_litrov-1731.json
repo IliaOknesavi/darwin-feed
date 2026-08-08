@@ -1,0 +1,30 @@
+{
+  "slug": "torf_s_vermikulitom_substrat_10_litrov-1731",
+  "url": "https://darwinshop.ru/shop/goods/torf_s_vermikulitom_substrat_10_litrov-1731",
+  "name": "Торф с вермикулитом (субстрат) 10 литров",
+  "culture": "Грунт",
+  "category_path": [
+    "Каталог",
+    "Грунт",
+    "Грунт"
+  ],
+  "price_rub": 240.0,
+  "price_text": "240 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "10 литров",
+    "Доступность": "много",
+    "Применение": "Грунт для выращивания рассады. Применение вермикулита позволяет избежать застоя воды, что является важным фактором для предотвращения гниения корней и различных заболеваний растений."
+  },
+  "description_html": "<h3>Описание</h3>\nВермикулит в составе торфа является активным биостимулятором роста корневой системы, т. к. содержит магний, кальций, кремний, железо и прочие микроэлементы.",
+  "description_text": "Описание\nВермикулит в составе торфа является активным биостимулятором роста корневой системы, т. к. содержит магний, кальций, кремний, железо и прочие микроэлементы.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/torf_s_vermikulitom_substrat_10_litrov-1731.html",
+  "fetched_at": "2026-08-02T01:18:34.304314Z",
+  "parser_version": "0.1.0"
+}

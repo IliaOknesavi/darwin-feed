@@ -1,0 +1,22 @@
+{
+  "slug": "barhattsyi_v_assortimente-2769",
+  "url": "https://darwinshop.ru/shop/goods/barhattsyi_v_assortimente-2769",
+  "name": "Бархатцы в ассортименте",
+  "culture": "Бархатцы",
+  "category_path": ["Каталог", "Цветочная рассада", "Бархатцы"],
+  "price_rub": 39.0,
+  "price_text": "39 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Оранжевый/Жёлтый",
+    "Вид растения": "Однолетнее",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [],
+  "images_note": "у позиции нет фотографии: страница отдаёт заглушку nophoto.jpg",
+  "raw_html_path": null,
+  "fetched_at": "2026-08-02T00:00:00Z",
+  "parser_version": "manual-webfetch-0.1"
+}

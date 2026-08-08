@@ -1,0 +1,27 @@
+{
+  "slug": "baklajan_v_assortimente-2517",
+  "url": "https://darwinshop.ru/shop/goods/baklajan_v_assortimente-2517",
+  "name": "Баклажан в ассортименте",
+  "culture": "Рассада овощных культур",
+  "category_path": [
+    "Каталог",
+    "Рассада овощных культур"
+  ],
+  "price_rub": 49.0,
+  "price_text": "49 ₽",
+  "availability": "много",
+  "attributes": {
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2517-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/baklajan_v_assortimente-2517.html",
+  "fetched_at": "2026-07-28T08:30:00.617684Z",
+  "parser_version": "0.1.0"
+}

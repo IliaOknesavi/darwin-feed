@@ -1,0 +1,29 @@
+{
+  "slug": "komnatnaya_roza_miks-939",
+  "url": "https://darwinshop.ru/shop/goods/komnatnaya_roza_miks-939",
+  "name": "Комнатная Роза микс",
+  "culture": "Роза",
+  "category_path": [
+    "Каталог",
+    "Комнатные растения",
+    "Роза"
+  ],
+  "price_rub": 100.0,
+  "price_text": "100 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много"
+  },
+  "description_html": "<h3>Описание</h3>\nРоза с собственной корневой системой. Можно пресаживать летом в открытый грунт.",
+  "description_text": "Описание\nРоза с собственной корневой системой. Можно пресаживать летом в открытый грунт.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/komnatnaya_roza_miks-939.html",
+  "fetched_at": "2026-08-02T01:15:36.844452Z",
+  "parser_version": "0.1.0"
+}

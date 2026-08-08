@@ -1,0 +1,32 @@
+{
+  "slug": "ber_za_royal_frost-3019",
+  "url": "https://darwinshop.ru/shop/goods/ber_za_royal_frost-3019",
+  "name": "Берёза Роял Фрост",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Фасовка": "Р7, 250 мл"
+  },
+  "description_html": "<h3>Описание</h3>\nРоял Фрост – дерево пирамидальной формы с тёмно-бордовой глянцевой листвой, эффектно контрастирующей с белым цветом коры.",
+  "description_text": "Описание\nРоял Фрост – дерево пирамидальной формы с тёмно-бордовой глянцевой листвой, эффектно контрастирующей с белым цветом коры.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/3021.jpg",
+      "alt": "Береза повислая Криспа (Crispa)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1001.jpg",
+      "alt": "Берёза обыкновенная"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-07T11:43:44.409375+00:00",
+  "parser_version": "fetch_missing-1"
+}

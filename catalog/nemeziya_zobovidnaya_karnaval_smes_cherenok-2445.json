@@ -1,0 +1,33 @@
+{
+  "slug": "nemeziya_zobovidnaya_karnaval_smes_cherenok-2445",
+  "url": "https://darwinshop.ru/shop/goods/nemeziya_zobovidnaya_karnaval_smes_cherenok-2445",
+  "name": "Немезия зобовидная \"Карнавал смесь\", черенок",
+  "culture": "Немезия",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Немезия"
+  ],
+  "price_rub": 59.0,
+  "price_text": "59 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "смесь",
+    "Фасовка": "Укор.черенок",
+    "Доступность": "много",
+    "Вид растения": "Многолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "25"
+  },
+  "description_html": "<h3>Описание</h3>\nВоронковидные цветки интересны яркой расцветкой и станут настоящим украшением любого сада,",
+  "description_text": "Описание\nВоронковидные цветки интересны яркой расцветкой и станут настоящим украшением любого сада,",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2445-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/nemeziya_zobovidnaya_karnaval_smes_cherenok-2445.html",
+  "fetched_at": "2026-08-02T01:23:58.254267Z",
+  "parser_version": "0.1.0"
+}

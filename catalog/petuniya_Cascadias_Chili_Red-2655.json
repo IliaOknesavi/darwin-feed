@@ -1,0 +1,35 @@
+{
+  "slug": "petuniya_Cascadias_Chili_Red-2655",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Cascadias_Chili_Red-2655",
+  "name": "Петуния Cascadias Chili Red",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": 399.0,
+  "price_text": "399 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Фиолетовый с белым",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 100 см",
+    "Сорт": "Cascadias",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2655-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_Cascadias_Chili_Red-2655.html",
+  "fetched_at": "2026-08-02T01:24:54.527579Z",
+  "parser_version": "0.1.0"
+}

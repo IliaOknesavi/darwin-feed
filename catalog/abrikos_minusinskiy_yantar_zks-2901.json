@@ -1,0 +1,31 @@
+{
+  "slug": "abrikos_minusinskiy_yantar_zks-2901",
+  "url": "https://darwinshop.ru/shop/goods/abrikos_minusinskiy_yantar_zks-2901",
+  "name": "Абрикос \"Минусинский янтарь\" ЗКС",
+  "culture": "Абрикос",
+  "category_path": [
+    "Каталог",
+    "Плодовые деревья",
+    "Абрикос"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": null,
+  "attributes": {
+    "Фасовка": "ЗКС"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [],
+  "raw_html_path": null,
+  "fetched_at": null,
+  "parser_version": "0.1.0-manual",
+  "_source": "reconstructed_from_slug",
+  "_notes": [
+    "Карточка darwinshop.ru не читалась: WebFetch по адресу https://darwinshop.ru/shop/goods/abrikos_minusinskiy_yantar_zks-2901 вернул отказ проверки домена (Unable to verify if domain darwinshop.ru is safe to fetch). Повторная попытка по дисциплине инструментов не делалась.",
+    "Название, культура и тип посадочного материала (ЗКС) восстановлены из слага по транслитерационному соглашению crop_classes.md §1.3: abrikos → абрикос; minusinskiy_yantar → «Минусинский янтарь»; zks → ЗКС.",
+    "Категория магазина в JSON проставлена предположительно и в разрешении класса НЕ участвует (crop_classes.md §1.1, жёсткий запрет). Класс разрешён по слагу и названию.",
+    "price_rub, availability, атрибуты 1С, описание и изображения НЕ ЗАПОЛНЕНЫ — источник недоступен. Сверка раздела 1 досье с карточкой магазина по этой причине не выполнена и объявлена пробелом.",
+    "Числовой хвост слага (2901) как код номенклатуры 1С не подтверждён — то же ограничение, что зафиксировано в templates/site_card.md, «Непроверенное» п. 4."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "verbeynik_monetchatyiy_kashpo_-2695",
+  "url": "https://darwinshop.ru/shop/goods/verbeynik_monetchatyiy_kashpo_-2695",
+  "name": "Вербейник монетчатый (кашпо)",
+  "culture": "Вьющиеся растения",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Вьющиеся растения"
+  ],
+  "price_rub": 499.0,
+  "price_text": "499 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "Кашпо",
+    "Доступность": "много"
+  },
+  "description_html": "<h3>Описание</h3>\nУникальное многолетнее растение.<br/> Подходит для выращивания в открытом грунте, как почвопокровное растение, на опорных стенках.<br/> Или как ампельное растение в кашпо и вазонах.",
+  "description_text": "Описание\nУникальное многолетнее растение. Подходит для выращивания в открытом грунте, как почвопокровное растение, на опорных стенках. Или как ампельное растение в кашпо и вазонах.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2695-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/verbeynik_monetchatyiy_kashpo_-2695.html",
+  "fetched_at": "2026-08-02T01:25:01.396762Z",
+  "parser_version": "0.1.0"
+}

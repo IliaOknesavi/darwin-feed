@@ -1,0 +1,28 @@
+{
+  "slug": "yablonya_dekorativnaya_royalti_zks-2065",
+  "url": "https://darwinshop.ru/shop/goods/yablonya_dekorativnaya_royalti_zks-2065",
+  "name": "Яблоня декоративная «Роялти» ЗКС",
+  "culture": "Черёмуха",
+  "category_path": [
+    "Каталог",
+    "Плодовые деревья",
+    "Черёмуха"
+  ],
+  "price_rub": 590.0,
+  "price_text": "590 ₽",
+  "availability": "много",
+  "attributes": {
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2065-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/yablonya_dekorativnaya_royalti_zks-2065.html",
+  "fetched_at": "2026-08-02T01:19:55.141913Z",
+  "parser_version": "0.1.0"
+}

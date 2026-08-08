@@ -1,0 +1,37 @@
+{
+  "slug": "tsinniya_izyaschnaya_tsitrusovyiy_kokteyl_cherenok-2451",
+  "url": "https://darwinshop.ru/shop/goods/tsinniya_izyaschnaya_tsitrusovyiy_kokteyl_cherenok-2451",
+  "name": "Цинния изящная, Цитрусовый Коктейль, черенок",
+  "culture": "Цинния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Цинния"
+  ],
+  "price_rub": 39.0,
+  "price_text": "39 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Смесь",
+    "Фасовка": "Укор.черенок",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "35"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2451-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2451-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/tsinniya_izyaschnaya_tsitrusovyiy_kokteyl_cherenok-2451.html",
+  "fetched_at": "2026-08-02T01:24:04.956896Z",
+  "parser_version": "0.1.0"
+}

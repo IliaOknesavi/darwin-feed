@@ -1,0 +1,34 @@
+{
+  "slug": "badan-1825",
+  "url": "https://darwinshop.ru/shop/goods/badan-1825",
+  "name": "Бадан",
+  "culture": "Бадан",
+  "category_path": [
+    "Каталог",
+    "Декоративные культуры",
+    "Вейгела"
+  ],
+  "price_rub": 220.0,
+  "price_text": "220 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "С2, 2 литра",
+    "Доступность": "много"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1825-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-07-31T00:00:00Z",
+  "parser_version": "0.1.0-manual",
+  "notes": [
+    "Файл создан вручную по живой странице (WebFetch 31.07.2026): в data/catalog/products/ позиции не было, снимок raw_html отсутствует.",
+    "Расхождение категории и товара (crop_classes §1.1, отчёт магазину §8.3): хлебные крошки ведут «Каталог → Декоративные культуры → Вейгела», товар — бадан. Класс разрешён по названию и слагу, а не по категории.",
+    "Описание товара на странице отсутствует полностью; атрибутов всего два. Вид (Bergenia crassifolia / B. cordifolia) и сорт продавцом не заявлены."
+  ]
+}

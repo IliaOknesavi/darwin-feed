@@ -1,0 +1,37 @@
+{
+  "slug": "balzamin_uollera_Xtreme_Scarlet_ekstrim_skarlet_krasnyiy-1261",
+  "url": "https://darwinshop.ru/shop/goods/balzamin_uollera_Xtreme_Scarlet_ekstrim_skarlet_krasnyiy-1261",
+  "name": "Бальзамин Уоллера Xtreme Scarlet, Экстрим Скарлет, красный",
+  "culture": "Бальзамин Уоллера",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Бальзамин"
+  ],
+  "price_rub": 60.0,
+  "price_text": "60 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Красный",
+    "Фасовка": "Р7, 250 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Высота растения (см)": "20"
+  },
+  "description_html": "<h3>Описание</h3>\nГенетически компактная серия, отличающаяся хорошим ветвлением.",
+  "description_text": "Описание\nГенетически компактная серия, отличающаяся хорошим ветвлением.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1261.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-07-31T00:00:00Z",
+  "parser_version": "manual-webfetch",
+  "collection_notes": [
+    "Собрано вручную через WebFetch 2026-07-31, а не парсером: файла каталога на эту позицию не было.",
+    "Атрибуты 'Тип растения', 'Сорт', 'Особенность растения' на странице не обнаружены — у соседних позиций класса они есть; возможна как неполнота карточки магазина, так и потеря при извлечении.",
+    "Изображение одно; raw_html не сохранён."
+  ]
+}

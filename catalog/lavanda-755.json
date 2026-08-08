@@ -1,0 +1,31 @@
+{
+  "slug": "lavanda-755",
+  "url": "https://darwinshop.ru/shop/goods/lavanda-755",
+  "name": "Лаванда",
+  "culture": "Лаванда",
+  "category_path": [
+    "Каталог",
+    "Декоративные культуры",
+    "Лаванда"
+  ],
+  "price_rub": 200.0,
+  "price_text": "200 ₽",
+  "availability": "много",
+  "attributes": {
+    "Высота куста": "25-30 см",
+    "Цвет цветка": "белый",
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много"
+  },
+  "description_html": "<h3>Описание</h3>\nВысота растения 25 - 30 см. Цветки небольшие, белые, ароматные, собраны в колосовидные соцветия на крепких стеблях. Листья зелёные.",
+  "description_text": "Описание\nВысота растения 25 - 30 см. Цветки небольшие, белые, ароматные, собраны в колосовидные соцветия на крепких стеблях. Листья зелёные.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/755-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/lavanda-755.html",
+  "fetched_at": "2026-08-02T01:14:31.814840Z",
+  "parser_version": "0.1.0"
+}

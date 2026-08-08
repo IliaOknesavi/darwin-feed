@@ -1,0 +1,27 @@
+{
+  "slug": "tyikva_v_assortimente-2519",
+  "url": "https://darwinshop.ru/shop/goods/tyikva_v_assortimente-2519",
+  "name": "Тыква в ассортименте",
+  "culture": "Рассада овощных культур",
+  "category_path": [
+    "Каталог",
+    "Рассада овощных культур"
+  ],
+  "price_rub": 59.0,
+  "price_text": "59 ₽",
+  "availability": "много",
+  "attributes": {
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2519-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/tyikva_v_assortimente-2519.html",
+  "fetched_at": "2026-08-02T01:24:34.263593Z",
+  "parser_version": "0.1.0"
+}

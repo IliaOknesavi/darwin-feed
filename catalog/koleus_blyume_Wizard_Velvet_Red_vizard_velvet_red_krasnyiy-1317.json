@@ -1,0 +1,33 @@
+{
+  "slug": "koleus_blyume_Wizard_Velvet_Red_vizard_velvet_red_krasnyiy-1317",
+  "url": "https://darwinshop.ru/shop/goods/koleus_blyume_Wizard_Velvet_Red_vizard_velvet_red_krasnyiy-1317",
+  "name": "Колеус Блюме Wizard Velvet Red, Визард Вельвет Рэд, красный",
+  "culture": "Колеус",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Колеус"
+  ],
+  "price_rub": 60.0,
+  "price_text": "60 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет растения": "Красный",
+    "Фасовка": "Р7, 250 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "30-35"
+  },
+  "description_html": "<h3>Описание</h3>\nРастение, высотой 30-36 см с красочными листьями.<br/> Отличается быстрым ростом.<br/> Для различных цветников, бордюров, контейнеров.",
+  "description_text": "Описание\nРастение, высотой 30-36 см с красочными листьями. Отличается быстрым ростом. Для различных цветников, бордюров, контейнеров.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1317-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/koleus_blyume_Wizard_Velvet_Red_vizard_velvet_red_krasnyiy-1317.html",
+  "fetched_at": "2026-08-02T01:17:00.455393Z",
+  "parser_version": "0.1.0"
+}

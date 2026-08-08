@@ -1,0 +1,37 @@
+{
+  "slug": "balzamin_novogvineyskiy_Harmony_Colorfall_Pink-2609",
+  "url": "https://darwinshop.ru/shop/goods/balzamin_novogvineyskiy_Harmony_Colorfall_Pink-2609",
+  "name": "Бальзамин новогвинейский Harmony Colorfall Pink",
+  "culture": "Бальзамин новогвинейский",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Бальзамин"
+  ],
+  "price_rub": 399.0,
+  "price_text": "399 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Розовый",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2609-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-07-31T00:00:00Z",
+  "parser_version": "manual-webfetch",
+  "collection_notes": [
+    "Собрано вручную через WebFetch: файла в data/catalog/products/ не существовало.",
+    "Блок «Описание» на странице магазина пуст — это состояние карточки, а не потеря парсера.",
+    "Атрибутов всего четыре: отсутствуют высота, тип растения, сорт/серия, особенность растения.",
+    "«Фасовка: Кашпо» указана без объёма и диаметра — см. «Пробелы» п. 3 в досье."
+  ]
+}

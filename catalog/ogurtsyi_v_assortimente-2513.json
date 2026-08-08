@@ -1,0 +1,27 @@
+{
+  "slug": "ogurtsyi_v_assortimente-2513",
+  "url": "https://darwinshop.ru/shop/goods/ogurtsyi_v_assortimente-2513",
+  "name": "Огурцы в ассортименте",
+  "culture": "Рассада овощных культур",
+  "category_path": [
+    "Каталог",
+    "Рассада овощных культур"
+  ],
+  "price_rub": 69.0,
+  "price_text": "69 ₽",
+  "availability": "много",
+  "attributes": {
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2513-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/ogurtsyi_v_assortimente-2513.html",
+  "fetched_at": "2026-07-28T08:29:56.694061Z",
+  "parser_version": "0.1.0"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "petuniya_Surprise_Blue_Sky-2261",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Surprise_Blue_Sky-2261",
+  "name": "Петуния Surprise Blue Sky",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Голубой",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 100 см",
+    "Сорт": "Surprise",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nПетуния Surprise Blue Sky – эффектный сорт с уникальной небесно-голубой окраской цветков. Растение отличается обильным и продолжительным цветением, компактным габитусом и отличной ветвистостью.",
+  "description_text": "Описание\nПетуния Surprise Blue Sky – эффектный сорт с уникальной небесно-голубой окраской цветков. Растение отличается обильным и продолжительным цветением, компактным габитусом и отличной ветвистостью.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2261-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2261-2.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2261-3.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_Surprise_Blue_Sky-2261.html",
+  "fetched_at": "2026-08-02T01:22:03.358657Z",
+  "parser_version": "0.1.0"
+}

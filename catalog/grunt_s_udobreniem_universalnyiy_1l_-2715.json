@@ -1,0 +1,29 @@
+{
+  "slug": "grunt_s_udobreniem_universalnyiy_1l_-2715",
+  "url": "https://darwinshop.ru/shop/goods/grunt_s_udobreniem_universalnyiy_1l_-2715",
+  "name": "Грунт с удобрением универсальный (1л)",
+  "culture": "Грунт",
+  "category_path": [
+    "Каталог",
+    "Грунт",
+    "Грунт"
+  ],
+  "price_rub": 20.0,
+  "price_text": "20 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "1 литр",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/grunt_s_udobreniem_universalnyiy_1l_-2715.html",
+  "fetched_at": "2026-08-02T01:25:10.441621Z",
+  "parser_version": "0.1.0"
+}

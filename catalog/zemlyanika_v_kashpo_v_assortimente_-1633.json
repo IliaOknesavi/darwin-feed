@@ -1,0 +1,34 @@
+{
+  "slug": "zemlyanika_v_kashpo_v_assortimente_-1633",
+  "url": "https://darwinshop.ru/shop/goods/zemlyanika_v_kashpo_v_assortimente_-1633",
+  "name": "Земляника в кашпо (в ассортименте)",
+  "culture": "Земляника",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Земляника"
+  ],
+  "price_rub": 300.0,
+  "price_text": "300 ₽",
+  "availability": "много",
+  "attributes": {
+    "Срок созревания": "средний",
+    "Фасовка": "Кашпо",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1633-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1633-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/zemlyanika_v_kashpo_v_assortimente_-1633.html",
+  "fetched_at": "2026-08-02T01:18:16.382237Z",
+  "parser_version": "0.1.0"
+}

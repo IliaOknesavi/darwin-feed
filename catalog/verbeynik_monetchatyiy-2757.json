@@ -1,0 +1,32 @@
+{
+  "slug": "verbeynik_monetchatyiy-2757",
+  "url": "https://darwinshop.ru/shop/goods/verbeynik_monetchatyiy-2757",
+  "name": "Вербейник монетчатый",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Фасовка": "Р9, 500 мл"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": "Дихондра"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2695.jpg",
+      "alt": "Вербейник монетчатый (кашпо)"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-08T19:58:12.560436+00:00",
+  "parser_version": "fetch_missing-1"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "barhattsyi_pryamostoyachie_Antigua_antigua_cherenok-2437",
+  "url": "https://darwinshop.ru/shop/goods/barhattsyi_pryamostoyachie_Antigua_antigua_cherenok-2437",
+  "name": "Бархатцы прямостоячие Antigua, Антигуа, черенок",
+  "culture": "Бархатцы",
+  "category_path": ["Каталог", "Цветочная рассада", "Бархатцы"],
+  "price_rub": 59.0,
+  "price_text": "59 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Оранжевый/Жёлтый",
+    "Фасовка": "Укор.черенок",
+    "Вид растения": "Однолетнее",
+    "Высота растения (см)": "35",
+    "Доступность": "много"
+  },
+  "description_html": "<h3>Описание</h3>\n«Антигуа F1» - очень популярная серия прямостоячих бархатцев с махровыми, гигантскими цветками, роскошным и продолжительным цветением, мощным, разветвленным и, в тоже время, компактным габитусом, высочайшей декоративностью и неприхотливостью.",
+  "description_text": "Описание\n«Антигуа F1» - очень популярная серия прямостоячих бархатцев с махровыми, гигантскими цветками, роскошным и продолжительным цветением, мощным, разветвленным и, в тоже время, компактным габитусом, высочайшей декоративностью и неприхотливостью.",
+  "images": [
+    {"url": "https://darwinshop.ru/uploaded/images/shop/goods/2437-1.jpg", "alt": "preview"}
+  ],
+  "related_on_page": [
+    {
+      "slug": "barhattsyi_pryamostoyachie_Antigua_antigua_r7-2699",
+      "url": "https://darwinshop.ru/shop/goods/barhattsyi_pryamostoyachie_Antigua_antigua_r7-2699",
+      "name": "Бархатцы прямостоячие Antigua, Антигуа, Р7",
+      "price_rub": 79.0,
+      "packaging": "Р7, 250 мл",
+      "availability": "много",
+      "note": "связь установлена по совпадению сорта и культуры в data/catalog/products, а не по блоку «похожие товары» страницы"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-02T00:00:00Z",
+  "parser_version": "manual-webfetch-0.1",
+  "notes": "Карточки в data/catalog/products/ не было; собрана вручную со страницы магазина 2026-08-02 через WebFetch. description_html восстановлен из текста страницы; alt изображения на сайте равен 'preview'. Атрибут «Тип растения» на странице отсутствует. Позицию прогнать штатным парсером."
+}

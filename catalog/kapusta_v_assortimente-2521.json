@@ -1,0 +1,27 @@
+{
+  "slug": "kapusta_v_assortimente-2521",
+  "url": "https://darwinshop.ru/shop/goods/kapusta_v_assortimente-2521",
+  "name": "Капуста в ассортименте",
+  "culture": "Рассада овощных культур",
+  "category_path": [
+    "Каталог",
+    "Рассада овощных культур"
+  ],
+  "price_rub": 19.0,
+  "price_text": "19 ₽",
+  "availability": "много",
+  "attributes": {
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2521-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/kapusta_v_assortimente-2521.html",
+  "fetched_at": "2026-08-02T01:24:36.645822Z",
+  "parser_version": "0.1.0"
+}

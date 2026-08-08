@@ -1,0 +1,35 @@
+{
+  "slug": "kalibrahoa_Rainbow_Blue-2285",
+  "url": "https://darwinshop.ru/shop/goods/kalibrahoa_Rainbow_Blue-2285",
+  "name": "Калибрахоа Rainbow Blue",
+  "culture": "Калибрахоа",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Калибрахоа"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Голубой с фиолетовой серединкой",
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 50 см",
+    "Сорт": "Rainbow",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2285-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/kalibrahoa_Rainbow_Blue-2285.html",
+  "fetched_at": "2026-08-02T01:22:28.524537Z",
+  "parser_version": "0.1.0"
+}

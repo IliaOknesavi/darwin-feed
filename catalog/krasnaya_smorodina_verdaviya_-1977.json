@@ -1,0 +1,32 @@
+{
+  "slug": "krasnaya_smorodina_verdaviya_-1977",
+  "url": "https://darwinshop.ru/shop/goods/krasnaya_smorodina_verdaviya_-1977",
+  "name": "Красная смородина \"Вердавия\"",
+  "culture": "Смородина",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Смородина"
+  ],
+  "price_rub": 350.0,
+  "price_text": "350 ₽",
+  "availability": "много",
+  "attributes": {
+    "Срок созревания": "среднеранний",
+    "Дегустационная оценка, максимум 5 баллов": "4,5",
+    "Зона морозостойкости": "Зона 3: от -40,0 до -34,5 градусов Цельсия",
+    "Фасовка": "ЗКС",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1977-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/krasnaya_smorodina_verdaviya_-1977.html",
+  "fetched_at": "2026-08-02T01:19:24.016507Z",
+  "parser_version": "0.1.0"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "oblepiha_etna-2047",
+  "url": "https://darwinshop.ru/shop/goods/oblepiha_etna-2047",
+  "name": "Облепиха Этна",
+  "culture": "Облепиха",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Облепиха"
+  ],
+  "price_rub": 350.0,
+  "price_text": "350 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "ЗКС",
+    "Доступность": "много",
+    "Созревание": "В конце августа – начале сентября.",
+    "Вкус плода": "кисло-сладкий"
+  },
+  "description_html": "<h3>Устойчивость</h3>\nЗимостойкость высокая.",
+  "description_text": "Устойчивость\nЗимостойкость высокая.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2047-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/oblepiha_etna-2047.html",
+  "fetched_at": "2026-08-02T01:19:52.476396Z",
+  "parser_version": "0.1.0"
+}

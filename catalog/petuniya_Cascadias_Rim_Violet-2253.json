@@ -1,0 +1,39 @@
+{
+  "slug": "petuniya_Cascadias_Rim_Violet-2253",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Cascadias_Rim_Violet-2253",
+  "name": "Петуния Cascadias Rim Violet",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Фиолетовый с белым",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 100 см",
+    "Сорт": "Cascadias",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nПетуния Cascadias Rim Violet – эффектный каскадный сорт с уникальной двухцветной окраской: насыщенные фиолетовые лепестки с контрастной белой каймой создают изысканный декоративный эффект.",
+  "description_text": "Описание\nПетуния Cascadias Rim Violet – эффектный каскадный сорт с уникальной двухцветной окраской: насыщенные фиолетовые лепестки с контрастной белой каймой создают изысканный декоративный эффект.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2253-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2253-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_Cascadias_Rim_Violet-2253.html",
+  "fetched_at": "2026-08-02T01:21:53.993462Z",
+  "parser_version": "0.1.0"
+}

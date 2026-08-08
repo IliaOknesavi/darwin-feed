@@ -1,0 +1,29 @@
+{
+  "slug": "ochitok_v_assortimente_r9_500_ml_-2891",
+  "url": "https://darwinshop.ru/shop/goods/ochitok_v_assortimente_r9_500_ml_-2891",
+  "name": "Очиток в ассортименте (Р9, 500 мл)",
+  "culture": "Очиток",
+  "category_path": [
+    "Каталог",
+    "Декоративные культуры",
+    "Очиток"
+  ],
+  "price_rub": 250.0,
+  "price_text": "250 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2891-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/ochitok_v_assortimente_r9_500_ml_-2891.html",
+  "fetched_at": "2026-08-02T01:27:08.158731Z",
+  "parser_version": "0.1.0"
+}

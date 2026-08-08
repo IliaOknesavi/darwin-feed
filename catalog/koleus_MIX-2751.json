@@ -1,0 +1,32 @@
+{
+  "slug": "koleus_MIX-2751",
+  "url": "https://darwinshop.ru/shop/goods/koleus_MIX-2751",
+  "name": "Колеус MIX",
+  "culture": "Колеус",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Колеус"
+  ],
+  "price_rub": 250.0,
+  "price_text": "250 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Высота растения (см)": "50",
+    "Сорт": "Микс"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/koleus_MIX-2751.html",
+  "fetched_at": "2026-08-02T01:25:21.699932Z",
+  "parser_version": "0.1.0"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "petuniya_Amore_Fiesta-2259",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Amore_Fiesta-2259",
+  "name": "Петуния Amore Fiesta",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Бордовый с оранжевым",
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 100 см",
+    "Сорт": "Cascadias",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nПетуния Amore Fiesta – яркий ампельный сорт из семейства Пасленовые. Сорт отличается обильным цветением, формирует каскадные побеги с множеством ярких цветков.",
+  "description_text": "Описание\nПетуния Amore Fiesta – яркий ампельный сорт из семейства Пасленовые. Сорт отличается обильным цветением, формирует каскадные побеги с множеством ярких цветков.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2259-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2259-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_Amore_Fiesta-2259.html",
+  "fetched_at": "2026-08-02T01:22:01.099554Z",
+  "parser_version": "0.1.0"
+}

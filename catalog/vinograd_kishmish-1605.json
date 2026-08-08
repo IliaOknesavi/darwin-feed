@@ -1,0 +1,25 @@
+{
+  "slug": "vinograd_kishmish-1605",
+  "url": "https://darwinshop.ru/shop/goods/vinograd_kishmish-1605",
+  "name": "Виноград Кишмиш",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Срок созревания": "ранний",
+    "Фасовка": "ЗКС",
+    "Вкус плода": "сладкий"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-08T19:56:11.038122+00:00",
+  "parser_version": "fetch_missing-1"
+}

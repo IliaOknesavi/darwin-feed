@@ -1,0 +1,27 @@
+{
+  "slug": "perets_bolgarskiy_v_assortimente-2515",
+  "url": "https://darwinshop.ru/shop/goods/perets_bolgarskiy_v_assortimente-2515",
+  "name": "Перец болгарский в ассортименте",
+  "culture": "Рассада овощных культур",
+  "category_path": [
+    "Каталог",
+    "Рассада овощных культур"
+  ],
+  "price_rub": 49.0,
+  "price_text": "49 ₽",
+  "availability": "много",
+  "attributes": {
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2515-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/perets_bolgarskiy_v_assortimente-2515.html",
+  "fetched_at": "2026-07-28T08:29:58.638830Z",
+  "parser_version": "0.1.0"
+}

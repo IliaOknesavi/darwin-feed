@@ -1,0 +1,37 @@
+{
+  "slug": "tsinniya_izyaschnaya_Eldorado_mixeldorado_miks_cherenok-2447",
+  "url": "https://darwinshop.ru/shop/goods/tsinniya_izyaschnaya_Eldorado_mixeldorado_miks_cherenok-2447",
+  "name": "Цинния изящная Eldorado mix.,Эльдорадо Микс, черенок",
+  "culture": "Цинния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Цинния"
+  ],
+  "price_rub": 39.0,
+  "price_text": "39 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Смесь",
+    "Фасовка": "Укор.черенок",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "35"
+  },
+  "description_html": "<h3>Описание</h3>\nКрупноцветковый, густомахровый сорт циннии изящной.",
+  "description_text": "Описание\nКрупноцветковый, густомахровый сорт циннии изящной.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2447-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2447-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/tsinniya_izyaschnaya_Eldorado_mixeldorado_miks_cherenok-2447.html",
+  "fetched_at": "2026-08-02T01:24:00.536518Z",
+  "parser_version": "0.1.0"
+}

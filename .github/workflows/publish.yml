@@ -1,0 +1,58 @@
+name: Обновление фида
+
+# Три повода пересобрать фид:
+#   1. Изменился список согласованных сортов или сами карточки — публикуем сразу.
+#   2. Раз в сутки — чтобы подхватить новинки каталога: позиция выходит на сайт,
+#      как только остаток в 1С становится больше нуля, и без обхода мы её не увидим.
+#   3. Вручную, кнопкой «Run workflow», если нужно немедленно.
+on:
+  push:
+    branches: [main]
+    paths: ["approved.txt", "cards/**", "scripts/**"]
+  schedule:
+    - cron: "0 3 * * *"        # 03:00 UTC, около 10 утра по Томску
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false     # две сборки подряд не должны спорить за один файл
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Зависимости
+        run: pip install --quiet requests beautifulsoup4
+
+      - name: Добрать новые позиции каталога
+        run: python scripts/fetch_missing.py || true   # сеть может подвести, сборку не срываем
+
+      - name: Собрать фид
+        run: |
+          python scripts/build_yml.py \
+            --approved approved.txt \
+            --zero-price-for-missing \
+            --out darwinshop.xml
+
+      - name: Опубликовать, если что-то изменилось
+        run: |
+          git config user.name "darwin-feed"
+          git config user.email "feed@darwinshop.local"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "изменений нет"
+            exit 0
+          fi
+          N=$(python -c "import xml.etree.ElementTree as E;print(len(list(E.parse('darwinshop.xml').getroot().iter('offer'))))")
+          A=$(grep -cE '^[0-9]' approved.txt || true)
+          git commit -q -m "Фид обновлён: $N предложений, согласовано сортов: $A"
+          git push

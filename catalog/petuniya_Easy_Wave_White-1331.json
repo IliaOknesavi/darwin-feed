@@ -1,0 +1,50 @@
+{
+  "slug": "petuniya_Easy_Wave_White-1331",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Easy_Wave_White-1331",
+  "name": "Петуния Easy Wave White",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Цвет цветка": "Белый",
+    "Фасовка": "Р9, 500 мл",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 80 см",
+    "Сорт": "Easy Wave",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nСерия ампельной петунии 'Изи Вэйв' (Easy Wave) — это цветы с гибкими, рослыми и сильно ветвящимися стеблями; длина побегов может достигать 80 см при высоте куста 15 см. Обильно цветет все лето цветками средних размеров (5-7 см). Устойчива к ветрам и сырой погоде.",
+  "description_text": "Описание\nСерия ампельной петунии 'Изи Вэйв' (Easy Wave) — это цветы с гибкими, рослыми и сильно ветвящимися стеблями; длина побегов может достигать 80 см при высоте куста 15 см. Обильно цветет все лето цветками средних размеров (5-7 см). Устойчива к ветрам и сырой погоде.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2231.jpg",
+      "alt": "Петуния Джоконда Стар Ред"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2223.jpg",
+      "alt": "Петуния SUCCESS 360° White"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2253.jpg",
+      "alt": "Петуния Cascadias Rim Violet"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2261.jpg",
+      "alt": "Петуния Surprise Blue Sky"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2267.jpg",
+      "alt": "Петуния Bubbles White"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-08T19:55:00.218012+00:00",
+  "parser_version": "fetch_missing-1"
+}

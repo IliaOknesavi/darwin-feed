@@ -1,0 +1,39 @@
+{
+  "slug": "petuniya_AlpeTunia_Yellow_Dark_Center-2573",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_AlpeTunia_Yellow_Dark_Center-2573",
+  "name": "Петуния AlpeTunia Yellow Dark Center",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Жёлтый",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 100 см",
+    "Сорт": "AlpeTunia",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2573-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2573-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_AlpeTunia_Yellow_Dark_Center-2573.html",
+  "fetched_at": "2026-08-02T01:24:50.143532Z",
+  "parser_version": "0.1.0"
+}

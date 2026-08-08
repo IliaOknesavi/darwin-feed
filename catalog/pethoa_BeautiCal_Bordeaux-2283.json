@@ -1,0 +1,35 @@
+{
+  "slug": "pethoa_BeautiCal_Bordeaux-2283",
+  "url": "https://darwinshop.ru/shop/goods/pethoa_BeautiCal_Bordeaux-2283",
+  "name": "Петхоа BeautiCal Bordeaux",
+  "culture": "Петхоа",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петхоа"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Бордовый",
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "25-30, длина побегов до 80 см",
+    "Сорт": "Beautical",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2283-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/pethoa_BeautiCal_Bordeaux-2283.html",
+  "fetched_at": "2026-08-02T01:22:26.390165Z",
+  "parser_version": "0.1.0"
+}

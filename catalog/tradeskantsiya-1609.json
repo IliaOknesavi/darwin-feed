@@ -1,0 +1,29 @@
+{
+  "slug": "tradeskantsiya-1609",
+  "url": "https://darwinshop.ru/shop/goods/tradeskantsiya-1609",
+  "name": "Традесканция",
+  "culture": "Традесканция",
+  "category_path": [
+    "Каталог",
+    "Комнатные растения",
+    "Традесканция"
+  ],
+  "price_rub": 55.0,
+  "price_text": "55 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "С1, 1 литр",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1609-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/tradeskantsiya-1609.html",
+  "fetched_at": "2026-08-02T01:18:07.444529Z",
+  "parser_version": "0.1.0"
+}

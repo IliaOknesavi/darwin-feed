@@ -1,0 +1,39 @@
+{
+  "slug": "petuniya_SPLASH_DANCE_MOON_WALK-2243",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_SPLASH_DANCE_MOON_WALK-2243",
+  "name": "Петуния SPLASH DANCE™ MOON WALK",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Белый, Фиолетовый",
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 80 см",
+    "Сорт": "SPLASH DANCE",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nКрупные белоснежные лепестки украшены яркими фиолетово-пурпурными штрихами и брызгами, создающими неповторимый узор на каждом цветке. Растение из семейства Solanaceae отличается обильным продолжительным цветением и неприхотливостью в уходе.",
+  "description_text": "Описание\nКрупные белоснежные лепестки украшены яркими фиолетово-пурпурными штрихами и брызгами, создающими неповторимый узор на каждом цветке. Растение из семейства Solanaceae отличается обильным продолжительным цветением и неприхотливостью в уходе.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2243-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2243-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_SPLASH_DANCE_MOON_WALK-2243.html",
+  "fetched_at": "2026-08-02T01:21:42.909028Z",
+  "parser_version": "0.1.0"
+}

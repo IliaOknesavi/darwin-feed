@@ -1,0 +1,32 @@
+{
+  "slug": "chernaya_smorodina_perun_-1991",
+  "url": "https://darwinshop.ru/shop/goods/chernaya_smorodina_perun_-1991",
+  "name": "Черная смородина \"Перун\"",
+  "culture": "Смородина",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Смородина"
+  ],
+  "price_rub": 380.0,
+  "price_text": "380 ₽",
+  "availability": "много",
+  "attributes": {
+    "Срок созревания": "средний",
+    "Зона морозостойкости": "Зона 3: от -40,0 до -34,5 градусов Цельсия",
+    "Фасовка": "ЗКС",
+    "Доступность": "много",
+    "Высота саженца": "0,5-1,0м"
+  },
+  "description_html": "<h3>Устойчивость</h3>\nСорт зимостойкий, засухоустойчивый, высокоустойчив к мучнистой росе и галловой тле, антракнозу и септориозу, почковым клещом повреждается слабо.",
+  "description_text": "Устойчивость\nСорт зимостойкий, засухоустойчивый, высокоустойчив к мучнистой росе и галловой тле, антракнозу и септориозу, почковым клещом повреждается слабо.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1991-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/chernaya_smorodina_perun_-1991.html",
+  "fetched_at": "2026-08-02T01:56:00Z",
+  "parser_version": "0.1.0-manual"
+}

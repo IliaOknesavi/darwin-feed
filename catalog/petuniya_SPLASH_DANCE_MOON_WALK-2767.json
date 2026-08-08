@@ -1,0 +1,35 @@
+{
+  "slug": "petuniya_SPLASH_DANCE_MOON_WALK-2767",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_SPLASH_DANCE_MOON_WALK-2767",
+  "name": "Петуния SPLASH DANCE™ MOON WALK",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": 399.0,
+  "price_text": "399 ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Белый, Фиолетовый",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 80 см",
+    "Сорт": "SPLASH DANCE",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_SPLASH_DANCE_MOON_WALK-2767.html",
+  "fetched_at": "2026-08-02T01:25:26.114226Z",
+  "parser_version": "0.1.0"
+}

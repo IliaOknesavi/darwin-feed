@@ -1,0 +1,31 @@
+{
+  "slug": "malina_remontantnaya_j_ltyiy_gigant_-2029",
+  "url": "https://darwinshop.ru/shop/goods/malina_remontantnaya_j_ltyiy_gigant_-2029",
+  "name": "Малина ремонтантная \"Жёлтый Гигант\"",
+  "culture": "Малина",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Малина"
+  ],
+  "price_rub": 280.0,
+  "price_text": "280 ₽",
+  "availability": "много",
+  "attributes": {
+    "Срок созревания": "среднеранний",
+    "Зона морозостойкости": "Зона 4: от -34,4 до -28,9 градусов Цельсия",
+    "Фасовка": "ЗКС",
+    "Доступность": "много"
+  },
+  "description_html": "<h3>Устойчивость</h3>\nЗимостойкость умеренная до -34. Сорт устойчив к основным грибным болезням малины, однако чувствителен к паутинному клещу и вирусным болезням.",
+  "description_text": "Устойчивость\nЗимостойкость умеренная до -34. Сорт устойчив к основным грибным болезням малины, однако чувствителен к паутинному клещу и вирусным болезням.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2029-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/malina_remontantnaya_j_ltyiy_gigant_-2029.html",
+  "fetched_at": "2026-08-02T01:19:43.754359Z",
+  "parser_version": "0.1.0"
+}

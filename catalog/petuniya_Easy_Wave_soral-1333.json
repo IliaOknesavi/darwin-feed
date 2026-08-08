@@ -1,0 +1,50 @@
+{
+  "slug": "petuniya_Easy_Wave_soral-1333",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Easy_Wave_soral-1333",
+  "name": "Петуния Easy Wave Сoral",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Цвет цветка": "Розовый",
+    "Фасовка": "Р9, 500 мл",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "15-30, длина побегов до 80 см",
+    "Сорт": "Easy Wave",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nСерия ампельной петунии 'Изи Вэйв' (Easy Wave) — это цветы с гибкими, рослыми и сильно ветвящимися стеблями; длина побегов может достигать 80 см при высоте куста 15 см. Обильно цветет все лето цветками средних размеров (5-7 см). Устойчива к ветрам и сырой погоде.",
+  "description_text": "Описание\nСерия ампельной петунии 'Изи Вэйв' (Easy Wave) — это цветы с гибкими, рослыми и сильно ветвящимися стеблями; длина побегов может достигать 80 см при высоте куста 15 см. Обильно цветет все лето цветками средних размеров (5-7 см). Устойчива к ветрам и сырой погоде.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2231.jpg",
+      "alt": "Петуния Джоконда Стар Ред"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2245.jpg",
+      "alt": "Петуния Cascadias Rose"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2223.jpg",
+      "alt": "Петуния SUCCESS 360° White"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2267.jpg",
+      "alt": "Петуния Bubbles White"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2265.jpg",
+      "alt": "Петуния ALPETUNIA PURPLE WHITE SKY"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-08T19:55:01.690618+00:00",
+  "parser_version": "fetch_missing-1"
+}

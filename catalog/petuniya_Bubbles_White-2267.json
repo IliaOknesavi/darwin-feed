@@ -1,0 +1,39 @@
+{
+  "slug": "petuniya_Bubbles_White-2267",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_Bubbles_White-2267",
+  "name": "Петуния Bubbles White",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": null,
+  "price_text": "Цена по запросу ₽",
+  "availability": "много",
+  "attributes": {
+    "Цвет цветка": "Бело-лавандовый",
+    "Фасовка": "Кашпо",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Тип растения": "Цветущее",
+    "Высота растения (см)": "25-30, длина побегов до 80 см",
+    "Сорт": "Bubbles",
+    "Особенность растения": "ампельный"
+  },
+  "description_html": "<h3>Описание</h3>\nПетуния Bubbles White – изящный гибрид с крупными белоснежно-лавандовыми цветками. Сорт отличается обильным продолжительным цветением и компактной формой, идеально подходит для выращивания в балконных ящиках, подвесных кашпо и садовых контейнерах.",
+  "description_text": "Описание\nПетуния Bubbles White – изящный гибрид с крупными белоснежно-лавандовыми цветками. Сорт отличается обильным продолжительным цветением и компактной формой, идеально подходит для выращивания в балконных ящиках, подвесных кашпо и садовых контейнерах.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2267-1.jpg",
+      "alt": "preview"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2267-2.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_Bubbles_White-2267.html",
+  "fetched_at": "2026-08-02T01:22:07.821245Z",
+  "parser_version": "0.1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "lobeliya_ampelnaya_Regatta_Rose_regatta_rouz_rozovaya-2421",
+  "url": "https://darwinshop.ru/shop/goods/lobeliya_ampelnaya_Regatta_Rose_regatta_rouz_rozovaya-2421",
+  "name": "Лобелия ампельная Regatta Rose, Регатта Роуз, розовая",
+  "culture": "Лобелия",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Лобелия"
+  ],
+  "price_rub": 59.0,
+  "price_text": "59 ₽",
+  "availability": "много",
+  "attributes": {
+    "Период цветения": "Июнь-Сентябрь",
+    "Цвет цветка": "Розовый/Фуксия",
+    "Фасовка": "Р9, 500 мл",
+    "Доступность": "много",
+    "Вид растения": "Однолетнее",
+    "Высота растения (см)": "30"
+  },
+  "description_html": "<h3>Описание</h3>\nМощные растения обильно цветут, каскадом спускаясь по краю подвесных корзин, больших контейнеров и цветных чаш",
+  "description_text": "Описание\nМощные растения обильно цветут, каскадом спускаясь по краю подвесных корзин, больших контейнеров и цветных чаш",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2421-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/lobeliya_ampelnaya_Regatta_Rose_regatta_rouz_rozovaya-2421.html",
+  "fetched_at": "2026-08-02T01:23:40.217278Z",
+  "parser_version": "0.1.0"
+}

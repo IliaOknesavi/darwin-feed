@@ -1,0 +1,34 @@
+{
+  "slug": "kryijovnik_samorodok_-2009",
+  "url": "https://darwinshop.ru/shop/goods/kryijovnik_samorodok_-2009",
+  "name": "Крыжовник \"Самородок\"",
+  "culture": "Крыжовник",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Крыжовник"
+  ],
+  "price_rub": 507.0,
+  "price_text": "507 ₽ 380 ₽",
+  "availability": "много",
+  "attributes": {
+    "Скидка": "25",
+    "Срок созревания": "среднеранний",
+    "Дегустационная оценка, максимум 5 баллов": "4,9",
+    "Зона морозостойкости": "Зона 4: от -34,4 до -28,9 градусов Цельсия",
+    "Фасовка": "ЗКС",
+    "Доступность": "много",
+    "Высота саженца": "0,7-0,9"
+  },
+  "description_html": "<h3>Устойчивость</h3>\nЗимостойкость высокая. К сферотеке устойчив. Устойчив к мучнистой росе, антракнозу.",
+  "description_text": "Устойчивость\nЗимостойкость высокая. К сферотеке устойчив. Устойчив к мучнистой росе, антракнозу.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": null
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/kryijovnik_samorodok_-2009.html",
+  "fetched_at": "2026-08-02T01:19:30.640617Z",
+  "parser_version": "0.1.0"
+}

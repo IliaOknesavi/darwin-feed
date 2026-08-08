@@ -1,0 +1,33 @@
+{
+  "slug": "chernaya_smorodina_rusalka_-1987",
+  "url": "https://darwinshop.ru/shop/goods/chernaya_smorodina_rusalka_-1987",
+  "name": "Черная смородина \"Русалка\"",
+  "culture": "Смородина",
+  "category_path": [
+    "Каталог",
+    "Ягодные культуры",
+    "Смородина"
+  ],
+  "price_rub": 380.0,
+  "price_text": "380 ₽",
+  "availability": "много",
+  "attributes": {
+    "Срок созревания": "средний",
+    "Зона морозостойкости": "Зона 3: от -40,0 до -34,5 градусов Цельсия",
+    "Фасовка": "ЗКС",
+    "Доступность": "много",
+    "Высота саженца": "0,5-1,0м"
+  },
+  "description_html": "<h3>Устойчивость</h3>\nСорт зимостойкий, засухоустойчивый, высокоустойчив к мучнистой росе и галловой тле, антракнозу и септориозу, почковым клещом повреждается слабо.",
+  "description_text": "Устойчивость\nСорт зимостойкий, засухоустойчивый, высокоустойчив к мучнистой росе и галловой тле, антракнозу и септориозу, почковым клещом повреждается слабо.",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1987-1.jpg",
+      "alt": "Черная смородина \"Русалка\""
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-02T00:00:00Z",
+  "parser_version": "0.1.0-manual",
+  "notes": "Файл собран вручную WebFetch по URL карточки 2026-08-02: в data/catalog/products/ позиции не было. Поля name, price_rub, availability, attributes, description_* и images сняты с живой страницы. raw_html_path = null: сырой HTML не сохранялся (WebFetch отдаёт markdown). Блок 'Устойчивость' в description дословно совпадает с карточками -1997, -1991, -1571, -1569 — это шаблон 1С, а не сортовые данные; расхождения с ВНИИСПК разобраны в data/dossiers/chernaya_smorodina_rusalka_-1987.md §1."
+}

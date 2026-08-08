@@ -1,0 +1,29 @@
+{
+  "slug": "petuniya_assorti-2503",
+  "url": "https://darwinshop.ru/shop/goods/petuniya_assorti-2503",
+  "name": "Петуния, ассорти",
+  "culture": "Петуния",
+  "category_path": [
+    "Каталог",
+    "Цветочная рассада",
+    "Петуния"
+  ],
+  "price_rub": 89.0,
+  "price_text": "89 ₽",
+  "availability": "много",
+  "attributes": {
+    "Фасовка": "Кашпо",
+    "Доступность": "много"
+  },
+  "description_html": null,
+  "description_text": null,
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2503-1.jpg",
+      "alt": "preview"
+    }
+  ],
+  "raw_html_path": "/Users/hatiko/Desktop/darwin_rag/data/raw_html/petuniya_assorti-2503.html",
+  "fetched_at": "2026-08-02T01:24:32.094652Z",
+  "parser_version": "0.1.0"
+}
