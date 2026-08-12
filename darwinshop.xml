@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-11 17:31">
+<yml_catalog date="2026-08-12 04:44">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -6589,6 +6589,26 @@ Blue Treasure любит солнце, но урожай выше в части�
         <param name="Урожайность">Средняя урожайность с куста — 3,6–4 кг, с гектара — 11,8 кг ягод.</param>
         <param name="Зона морозостойкости">Зона 3: от -40,0 до -34,5 градусов Цельсия</param>
       </offer>
+      <offer id="3035" available="true">
+        <url>https://darwinshop.ru/shop/goods/jimolost_blu_treje_Blue_Treasure_s3_3_litra_-3035</url>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/531.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/877.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/523.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/731.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/737.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Жимолость &quot;Блу Треже&quot; (Blue Treasure)</name>
+        <description/>
+        <param name="Срок созревания">средний</param>
+        <param name="Дегустационная оценка, максимум 5 баллов">4,9</param>
+        <param name="Производитель">г. Томск, ООО &quot;Дарвин&quot;</param>
+        <param name="Средняя масса ягод,г">до 3 грамм</param>
+        <param name="Урожайность">Средняя урожайность с куста — 3,6–4 кг, с гектара — 11,8 кг ягод.</param>
+        <param name="Зона морозостойкости">Зона 3: от -40,0 до -34,5 градусов Цельсия</param>
+      </offer>
       <offer id="877" available="true">
         <url>https://darwinshop.ru/shop/goods/jimolost_blyu_banana_Blue_Banana_-877</url>
         <price>0</price>
@@ -6786,6 +6806,26 @@ Giant`s Hart любит солнце, но урожай выше в частич
         <param name="Урожайность">Высокая — 4-4,5 кг с куста.</param>
         <param name="Зона морозостойкости">Зона 3: от -40,0 до -34,5 градусов Цельсия</param>
       </offer>
+      <offer id="3029" available="true">
+        <url>https://darwinshop.ru/shop/goods/jimolost_giants_heart_Giant_s_Hart_s3_3_litra_-3029</url>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/531.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/877.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/523.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/731.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/737.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Жимолость &quot;Гиантс Хеарт&quot; (Giant`s Hart)</name>
+        <description/>
+        <param name="Срок созревания">средний</param>
+        <param name="Дегустационная оценка, максимум 5 баллов">4,9</param>
+        <param name="Производитель">г. Томск, ООО &quot;Дарвин&quot;</param>
+        <param name="Средняя масса ягод,г">3,5-4,2 грамм</param>
+        <param name="Урожайность">Высокая — 4-4,5 кг с куста.</param>
+        <param name="Зона морозостойкости">Зона 3: от -40,0 до -34,5 градусов Цельсия</param>
+      </offer>
       <offer id="2099" available="true">
         <url>https://darwinshop.ru/shop/goods/jimolost_gordost_bakchara_bakchar_oks-2099</url>
         <price>320</price>
@@ -6874,6 +6914,26 @@ Honeybee — лицензированный канадский сорт жимо
 
 &lt;h3&gt;Условия выращивания&lt;/h3&gt;
 Indigo Jam любит солнце, но урожай выше в частичной тени. Потребность в воде — средняя. Ей нужна слегка влажная суглинистая почва с кислотностью рН 5–8, умеренно плодородная. Сорт частично самоплодный. Чтобы получать высокий урожай, рядом рекомендуется сажать жимолость Хоней Би, Берри Блю, Тундра, Аврора, Бакчарский великан, Бореалис.</description>
+        <param name="Срок созревания">ранний</param>
+        <param name="Дегустационная оценка, максимум 5 баллов">4,5</param>
+        <param name="Производитель">г. Томск, ООО &quot;Дарвин&quot;</param>
+        <param name="Средняя масса ягод,г">1,3–1,9 грамм</param>
+        <param name="Урожайность">Средняя — 2,7–4,5 кг с куста.</param>
+        <param name="Зона морозостойкости">Зона 3: от -40,0 до -34,5 градусов Цельсия</param>
+      </offer>
+      <offer id="3031" available="true">
+        <url>https://darwinshop.ru/shop/goods/jimolost_indigo_djem_Indigo_Jam_s3_3_litra_-3031</url>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/531.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/523.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/877.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/731.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/737.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Жимолость &quot;Индиго Джем&quot; (Indigo Jam)</name>
+        <description/>
         <param name="Срок созревания">ранний</param>
         <param name="Дегустационная оценка, максимум 5 баллов">4,5</param>
         <param name="Производитель">г. Томск, ООО &quot;Дарвин&quot;</param>
@@ -7201,6 +7261,26 @@ Strawberry Sensation — новый американский сорт жимол
 
 &lt;h3&gt;Условия выращивания&lt;/h3&gt;
 Stravberry Sensation любит солнце, но урожай выше в частичной тени. Потребность в воде — средняя. Ей нужна слегка влажная суглинистая почва с кислотностью рН 5–8, умеренно плодородная. Сорт самобесплодный. Жимолость, которую лучше всего выбрать для переопыления — Blue Treasure, Boreal Blizzard, Indigo Gem, Beauty.</description>
+        <param name="Срок созревания">поздний</param>
+        <param name="Дегустационная оценка, максимум 5 баллов">4,6</param>
+        <param name="Производитель">г. Томск, ООО &quot;Дарвин&quot;</param>
+        <param name="Средняя масса ягод,г">до 3 грамм</param>
+        <param name="Урожайность">Урожайность высокая — 3,6 – 4,5 кг с куста, с гектара — 11,8 – 14,8 т.</param>
+        <param name="Зона морозостойкости">Зона 3: от -40,0 до -34,5 градусов Цельсия</param>
+      </offer>
+      <offer id="3033" available="true">
+        <url>https://darwinshop.ru/shop/goods/jimolost_strouberri_senseyshn_Strawberry_Sensation_s3_3_litra_-3033</url>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/531.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/523.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/731.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/543.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/537.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Жимолость &quot;Строуберри Сенсейшн&quot; (Strawberry Sensation)</name>
+        <description/>
         <param name="Срок созревания">поздний</param>
         <param name="Дегустационная оценка, максимум 5 баллов">4,6</param>
         <param name="Производитель">г. Томск, ООО &quot;Дарвин&quot;</param>

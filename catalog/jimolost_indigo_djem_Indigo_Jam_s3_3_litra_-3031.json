@@ -1,0 +1,50 @@
+{
+  "slug": "jimolost_indigo_djem_Indigo_Jam_s3_3_litra_-3031",
+  "url": "https://darwinshop.ru/shop/goods/jimolost_indigo_djem_Indigo_Jam_s3_3_litra_-3031",
+  "name": "Жимолость \"Индиго Джем\" (Indigo Jam)",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": 650.0,
+  "price_text": "650 ₽",
+  "availability": "",
+  "attributes": {
+    "Срок созревания": "ранний",
+    "Дегустационная оценка, максимум 5 баллов": "4,5",
+    "Производитель": "г. Томск, ООО \"Дарвин\"",
+    "Средняя масса ягод,г": "1,3–1,9 грамм",
+    "Урожайность": "Средняя — 2,7–4,5 кг с куста.",
+    "Зона морозостойкости": "Зона 3: от -40,0 до -34,5 градусов Цельсия",
+    "Фасовка": "С3, 3 литра"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/531.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/523.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/877.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/731.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/737.jpg",
+      "alt": "Жимолость "
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-12T04:44:37.639117+00:00",
+  "parser_version": "fetch_missing-1"
+}

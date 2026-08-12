@@ -1,0 +1,50 @@
+{
+  "slug": "jimolost_blu_treje_Blue_Treasure_s3_3_litra_-3035",
+  "url": "https://darwinshop.ru/shop/goods/jimolost_blu_treje_Blue_Treasure_s3_3_litra_-3035",
+  "name": "Жимолость \"Блу Треже\" (Blue Treasure)",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": 650.0,
+  "price_text": "650 ₽",
+  "availability": "",
+  "attributes": {
+    "Срок созревания": "средний",
+    "Дегустационная оценка, максимум 5 баллов": "4,9",
+    "Производитель": "г. Томск, ООО \"Дарвин\"",
+    "Средняя масса ягод,г": "до 3 грамм",
+    "Урожайность": "Средняя урожайность с куста — 3,6–4 кг, с гектара — 11,8 кг ягод.",
+    "Зона морозостойкости": "Зона 3: от -40,0 до -34,5 градусов Цельсия",
+    "Фасовка": "С3, 3 литра"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/531.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/877.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/523.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/731.jpg",
+      "alt": "Жимолость "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/737.jpg",
+      "alt": "Жимолость "
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-12T04:44:41.491948+00:00",
+  "parser_version": "fetch_missing-1"
+}
