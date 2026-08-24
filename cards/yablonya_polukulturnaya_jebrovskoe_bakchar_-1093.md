@@ -139,7 +139,7 @@ revised: 2026-08-02
 
 [Уральское наливное](/shop/goods/yablonya_polukulturnaya_uralskoe_nalivnoe_-1109) — тот же размерный класс (28–35 г) и то же назначение, но запас прочности выше.
 [Сурхурай](/shop/goods/yablonya_polukulturnaya_surhuray_zarya_altaya_-1103) — плод вдвое крупнее (56–82 г) при той же надёжности, и одновременно опылитель.
-[Папировка](/shop/goods/yablonya_krupnoplodnaya_papirovka_belyiy_naliv_-1137) — крупный летний плод 150–180 г, но **только стланцем или через скелетообразователь**.
+[Папировка](/shop/goods/yablonya_krupnoplodnaya_papirovka_belyiy_naliv_-1137) — крупный летний плод 150–180 г, но **только стланцем**.
 
 ---
 

@@ -141,7 +141,7 @@ revised: 2026-07-31
 
 [Сувенир Алтая](/shop/goods/yablonya_polukulturnaya_suvenir_altaya_-1459) — та же школа и срок, плод 75–90 г, та же надёжность штамбом.
 [Уральское наливное](/shop/goods/yablonya_polukulturnaya_uralskoe_nalivnoe_-1109) — надёжнее по зимостойкости и раньше созревает, но плод мелкий (28–35 г).
-[Папировка](/shop/goods/yablonya_krupnoplodnaya_papirovka_belyiy_naliv_-1137) — крупный плод 150–180 г, но идёт **только стланцем или через скелетообразователь**.
+[Папировка](/shop/goods/yablonya_krupnoplodnaya_papirovka_belyiy_naliv_-1137) — крупный плод 150–180 г, но идёт **только стланцем**.
 
 ---
 
