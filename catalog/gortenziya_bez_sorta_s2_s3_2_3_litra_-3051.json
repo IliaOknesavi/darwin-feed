@@ -1,0 +1,49 @@
+{
+  "slug": "gortenziya_bez_sorta_s2_s3_2_3_litra_-3051",
+  "url": "https://darwinshop.ru/shop/goods/gortenziya_bez_sorta_s2_s3_2_3_litra_-3051",
+  "name": "Гортензия БЕЗ сорта (С2 -С3, 2-3 литра)",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Вид": "Метельчатая",
+    "Высота куста": "до 1,5 м",
+    "Диаметр куста": "до 0,75 м",
+    "Соцветия": "Конические, 30 см в длину.",
+    "Период цветения": "Июль-Октябрь",
+    "Фасовка": "ОКС"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/321.jpg",
+      "alt": "Гортензия Фантом (Phantom) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1041.jpg",
+      "alt": "Гортензия Конфетти (Confetti) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/273.jpg",
+      "alt": "Гортензия Ванилла Фрейз (Vanille Fraise) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/741.jpg",
+      "alt": "Гортензия Граффити (Graffiti) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/837.jpg",
+      "alt": "Гортензия Строуберри Блоссом (Strawberry Blossom) метельчатая"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-08-28T14:49:45.386140+00:00",
+  "parser_version": "fetch_missing-1"
+}

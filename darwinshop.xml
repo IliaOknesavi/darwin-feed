@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-27 13:39">
+<yml_catalog date="2026-08-28 14:49">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -3286,6 +3286,25 @@
         <param name="Диаметр куста">2,0м</param>
         <param name="Соцветия">Шаровидные</param>
         <param name="Период цветения">Июль-Сентябрь</param>
+      </offer>
+      <offer id="3051" available="true">
+        <url>https://darwinshop.ru/shop/goods/gortenziya_bez_sorta_s2_s3_2_3_litra_-3051</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/321.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1041.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/273.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/741.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/837.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Гортензия БЕЗ сорта (С2 -С3, 2-3 литра)</name>
+        <description/>
+        <param name="Вид">Метельчатая</param>
+        <param name="Высота куста">до 1,5 м</param>
+        <param name="Диаметр куста">до 0,75 м</param>
+        <param name="Соцветия">Конические, 30 см в длину.</param>
+        <param name="Период цветения">Июль-Октябрь</param>
       </offer>
       <offer id="767" available="true">
         <url>https://darwinshop.ru/shop/goods/gortenziya_bi_heppi_Bee_Happy_metelchataya-767</url>
