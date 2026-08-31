@@ -41,6 +41,7 @@ jobs:
           python scripts/build_yml.py \
             --approved approved.txt \
             --zero-price-for-missing \
+            --picture-base https://iliaoknesavi.github.io/darwin-feed/images \
             --out darwinshop.xml
 
       - name: Опубликовать, если что-то изменилось

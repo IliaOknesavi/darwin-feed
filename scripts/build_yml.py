@@ -297,7 +297,11 @@ def collect(picture_base: str | None, *, pass_through: bool = False,
             for im in (p.get("images") or [])
             if (im.get("url") if isinstance(im, dict) else im)
         ]
-        if picture_base and not pass_through:
+        # Наши снимки и этикетка идут на сайт по тому же разрешению, что и текст:
+        # главное фото встаёт ПЕРВЫМ и подменяет витринную картинку товара. Делать это
+        # у позиции, которую владелец не согласовал, значит менять сайт мимо approved.txt.
+        ours_allowed = APPROVED is None or art in APPROVED
+        if picture_base and not pass_through and ours_allowed:
             base = picture_base.rstrip("/")
             for local, suffix in (
                 (PHOTO_FINAL / f"{slug}__main.jpg", f"{slug}__main.jpg"),
