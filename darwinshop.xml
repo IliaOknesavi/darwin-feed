@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-30 08:51">
+<yml_catalog date="2026-08-31 05:11">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -6491,7 +6491,9 @@ Forever and Ever Red (Форевер Энд Эвер Ред) – новый со
         <price>360</price>
         <currencyId>RUR</currencyId>
         <categoryId>48</categoryId>
+        <picture>https://iliaoknesavi.github.io/darwin-feed/images/jimolost_bakcharskiy_velikan_bakchar_-2093__main.jpg</picture>
         <picture>https://darwinshop.ru/uploaded/images/shop/goods/2093-1.jpg</picture>
+        <picture>https://iliaoknesavi.github.io/darwin-feed/images/jimolost_bakcharskiy_velikan_bakchar_-2093__detail.jpg</picture>
         <vendor>Сажень</vendor>
         <name>Жимолость «Бакчарский великан» — ягода 4,5 см, ОКС Томск</name>
         <description>&lt;p&gt;Рекордсмен культуры по длине ягоды: до 4,5 см, сорт томской селекции.&lt;/p&gt;
