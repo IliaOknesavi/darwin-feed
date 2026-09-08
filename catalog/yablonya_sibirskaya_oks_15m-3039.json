@@ -1,0 +1,45 @@
+{
+  "slug": "yablonya_sibirskaya_oks_15m-3039",
+  "url": "https://darwinshop.ru/shop/goods/yablonya_sibirskaya_oks_15m-3039",
+  "name": "Яблоня сибирская, ОКС, 1,5м",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Фасовка": "ОКС",
+    "Размер саженца": "1,5м"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2135.jpg",
+      "alt": "Яблоня полукультурная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1101.jpg",
+      "alt": "Яблоня полукультурная «Стройное»"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1875.jpg",
+      "alt": "Яблоня полукультурная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1093.jpg",
+      "alt": "Яблоня полукультурная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1873.jpg",
+      "alt": "Яблоня полукультурная "
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-09-08T07:45:34.139961+00:00",
+  "parser_version": "fetch_missing-1"
+}

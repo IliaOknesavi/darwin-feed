@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-07 07:49">
+<yml_catalog date="2026-09-08 07:45">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -13510,6 +13510,22 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Рост взрослого растения">400см</param>
         <param name="Цвет растения">Зеленый</param>
       </offer>
+      <offer id="3037" available="true">
+        <url>https://darwinshop.ru/shop/goods/siren_v_assortimente_15_m_oks-3037</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/815.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1425.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/591.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/3009.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/817.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Сирень в ассортименте, 1,5 м ОКС</name>
+        <description/>
+        <param name="Производитель">г. Томск, ООО &quot;Дарвин&quot;</param>
+        <param name="Цвет растения">Зеленый</param>
+      </offer>
       <offer id="2051" available="true">
         <url>https://darwinshop.ru/shop/goods/siren_vengerskaya_zks-2051</url>
         <price>1350</price>
@@ -16968,6 +16984,21 @@ P 11% фосфор (P2O5),
         <param name="Созревание">в середине августа.</param>
         <param name="Масса плода">150-160г</param>
         <param name="Вкус плода">мякоть сочная, плотная, десертного вкуса.</param>
+      </offer>
+      <offer id="3039" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_sibirskaya_oks_15m-3039</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2135.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1101.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1875.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1093.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1873.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня сибирская, ОКС, 1,5м</name>
+        <description/>
+        <param name="Размер саженца">1,5м</param>
       </offer>
       <offer id="1733" available="true">
         <url>https://darwinshop.ru/shop/goods/yaschik_plastikovyiy_bolshoy-1733</url>

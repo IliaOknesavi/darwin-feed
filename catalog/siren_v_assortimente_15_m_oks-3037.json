@@ -1,0 +1,46 @@
+{
+  "slug": "siren_v_assortimente_15_m_oks-3037",
+  "url": "https://darwinshop.ru/shop/goods/siren_v_assortimente_15_m_oks-3037",
+  "name": "Сирень в ассортименте, 1,5 м ОКС",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Производитель": "г. Томск, ООО \"Дарвин\"",
+    "Цвет растения": "Зеленый",
+    "Фасовка": "ОКС"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/815.jpg",
+      "alt": "Сирень Виолетта (Violetta)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1425.jpg",
+      "alt": "Сирень Красавица Москвы"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/591.jpg",
+      "alt": "Сирень Примроуз (Primrose)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/3009.jpg",
+      "alt": "Сирень Сенсация (Sensation)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/817.jpg",
+      "alt": "Сирень Бюффон (Buffon)"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-09-08T07:45:32.537087+00:00",
+  "parser_version": "fetch_missing-1"
+}
