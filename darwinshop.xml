@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-12 07:37">
+<yml_catalog date="2026-09-13 07:56">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -13692,6 +13692,30 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Масса плода">до 20г</param>
         <param name="Вкус плода">сладкого вкуса.</param>
       </offer>
+      <offer id="3057" available="true">
+        <url>https://darwinshop.ru/shop/goods/sliva_krasnomyasaya_chemala_oks-3057</url>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2909.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2151.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Слива &quot;Красномясая Чемала&quot; ОКС</name>
+        <description/>
+      </offer>
+      <offer id="3059" available="true">
+        <url>https://darwinshop.ru/shop/goods/sliva_kulundinskaya_oks-3059</url>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2909.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2151.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Слива &quot;Кулундинская&quot; ОКС</name>
+        <description/>
+      </offer>
       <offer id="1953" available="true">
         <url>https://darwinshop.ru/shop/goods/sliva_lyubushka_-1953</url>
         <price>0</price>
@@ -13773,6 +13797,18 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Созревание">Июль - начало августа</param>
         <param name="Масса плода">В среднем 20–30 г, но при хорошем уходе могут достигать и 40 г.</param>
         <param name="Вкус плода">Десертный, сладкий с приятной лёгкой кислинкой.</param>
+      </offer>
+      <offer id="3055" available="true">
+        <url>https://darwinshop.ru/shop/goods/sliva_timosha_oks-3055</url>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2909.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2151.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Слива &quot;Тимоша&quot; ОКС</name>
+        <description/>
       </offer>
       <offer id="1163" available="true">
         <url>https://darwinshop.ru/shop/goods/sliva_ussuriyskaya_prazdnichnaya_-1163</url>

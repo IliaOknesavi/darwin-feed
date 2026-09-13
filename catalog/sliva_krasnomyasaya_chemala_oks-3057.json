@@ -1,0 +1,36 @@
+{
+  "slug": "sliva_krasnomyasaya_chemala_oks-3057",
+  "url": "https://darwinshop.ru/shop/goods/sliva_krasnomyasaya_chemala_oks-3057",
+  "name": "Слива \"Красномясая Чемала\" ОКС",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": 690.0,
+  "price_text": "690 ₽",
+  "availability": "",
+  "attributes": {
+    "Фасовка": "ОКС"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": "Слива "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2909.jpg",
+      "alt": "Слива "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2151.jpg",
+      "alt": "Слива "
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-09-13T07:56:11.150829+00:00",
+  "parser_version": "fetch_missing-1"
+}
