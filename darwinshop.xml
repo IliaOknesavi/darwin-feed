@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-15 08:19">
+<yml_catalog date="2026-09-16 08:13">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -7796,6 +7796,19 @@ Stravberry Sensation любит солнце, но урожай выше в ча
         <param name="Высота растения (см)">25-30, длина побегов до 60 см</param>
         <param name="Сорт">MiniFamous</param>
         <param name="Особенность растения">ампельный</param>
+      </offer>
+      <offer id="3061" available="true">
+        <url>https://darwinshop.ru/shop/goods/kalina_buldonej_zks-3061</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2855.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2853.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2851.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Калина Бульдонеж ЗКС</name>
+        <description/>
+        <param name="Производитель">Россия</param>
       </offer>
       <offer id="709" available="true">
         <url>https://darwinshop.ru/shop/goods/kalina_gordovina_-709</url>
