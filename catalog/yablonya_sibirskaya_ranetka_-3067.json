@@ -1,0 +1,44 @@
+{
+  "slug": "yablonya_sibirskaya_ranetka_-3067",
+  "url": "https://darwinshop.ru/shop/goods/yablonya_sibirskaya_ranetka_-3067",
+  "name": "Яблоня сибирская (ранетка)",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Фасовка": "ОКС"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg",
+      "alt": "Яблоня культурная Соковое 3"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2137.jpg",
+      "alt": "Яблоня крупноплодная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2145.jpg",
+      "alt": "Яблоня крупноплодная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2143.jpg",
+      "alt": "Яблоня крупноплодная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2141.jpg",
+      "alt": "Яблоня крупноплодная "
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-09-18T07:55:04.358373+00:00",
+  "parser_version": "fetch_missing-1"
+}

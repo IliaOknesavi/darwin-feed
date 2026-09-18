@@ -1,0 +1,23 @@
+{
+  "slug": "oreh_manchjurskiy-3065",
+  "url": "https://darwinshop.ru/shop/goods/oreh_manchjurskiy-3065",
+  "name": "Орех Манчжурский",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Фасовка": "ОКС"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [],
+  "raw_html_path": null,
+  "fetched_at": "2026-09-18T07:55:02.432055+00:00",
+  "parser_version": "fetch_missing-1"
+}

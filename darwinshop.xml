@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-17 08:19">
+<yml_catalog date="2026-09-18 07:55">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -11308,6 +11308,15 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <name>Огурцы в ассортименте</name>
         <description/>
       </offer>
+      <offer id="3065" available="true">
+        <url>https://darwinshop.ru/shop/goods/oreh_manchjurskiy-3065</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Орех Манчжурский</name>
+        <description/>
+      </offer>
       <offer id="949" available="true">
         <url>https://darwinshop.ru/shop/goods/osoka_gladkonosaya_Carex_leiorhyncha_-949</url>
         <price>0</price>
@@ -16173,6 +16182,20 @@ P 11% фосфор (P2O5),
         <param name="Масса плода">120-170г</param>
         <param name="Вкус плода">Кисло-сладкий</param>
       </offer>
+      <offer id="3063" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_kulturnaya_sokovoe_3-3063</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2137.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2145.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2143.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2141.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня культурная Соковое 3</name>
+        <description/>
+      </offer>
       <offer id="2923" available="true">
         <url>https://darwinshop.ru/shop/goods/yablonya_mechta_zks-2923</url>
         <price>800</price>
@@ -17048,6 +17071,20 @@ P 11% фосфор (P2O5),
         <name>Яблоня сибирская, ОКС, 1,5м</name>
         <description/>
         <param name="Размер саженца">1,5м</param>
+      </offer>
+      <offer id="3067" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_sibirskaya_ranetka_-3067</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/nophoto.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2137.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2145.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2143.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2141.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня сибирская (ранетка)</name>
+        <description/>
       </offer>
       <offer id="1733" available="true">
         <url>https://darwinshop.ru/shop/goods/yaschik_plastikovyiy_bolshoy-1733</url>
