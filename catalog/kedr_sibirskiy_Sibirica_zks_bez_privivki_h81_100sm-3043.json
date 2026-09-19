@@ -1,0 +1,41 @@
+{
+  "slug": "kedr_sibirskiy_Sibirica_zks_bez_privivki_h81_100sm-3043",
+  "url": "https://darwinshop.ru/shop/goods/kedr_sibirskiy_Sibirica_zks_bez_privivki_h81_100sm-3043",
+  "name": "Кедр Сибирский (Sibirica) ЗКС (без прививки) h81-100см",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {
+    "Фасовка": "ЗКС",
+    "Высота растения": "35-40м",
+    "Ширина растения": "до 2м",
+    "Форма кроны": "Коническая",
+    "Цвет листьев/хвои": "Зелёный",
+    "Высота саженца": "81-100"
+  },
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1711.jpg",
+      "alt": "Кедр Сибирский (Sibirica) ЗКС (без прививки) h60-70см"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1803.jpg",
+      "alt": "Кедр Сибирский (Sibirica) ЗКС (без прививки) h10-15см"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1713.jpg",
+      "alt": "Кедр Сибирский (Sibirica) ЗКС (с прививкой) h50см"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-09-19T07:45:36.751365+00:00",
+  "parser_version": "fetch_missing-1"
+}

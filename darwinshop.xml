@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-18 07:55">
+<yml_catalog date="2026-09-19 07:45">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -8081,6 +8081,40 @@ Stravberry Sensation любит солнце, но урожай выше в ча
         <param name="Цвет листьев/хвои">Зелёный</param>
         <param name="Высота саженца">60-70см</param>
       </offer>
+      <offer id="3041" available="true">
+        <url>https://darwinshop.ru/shop/goods/kedr_sibirskiy_Sibirica_zks_bez_privivki_h71_80sm-3041</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1711.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1803.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1713.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Кедр Сибирский (Sibirica) ЗКС (без прививки) h71-80см</name>
+        <description/>
+        <param name="Высота растения">35-40м</param>
+        <param name="Ширина растения">до 2м</param>
+        <param name="Форма кроны">Коническая</param>
+        <param name="Цвет листьев/хвои">Зелёный</param>
+        <param name="Высота саженца">71-80см</param>
+      </offer>
+      <offer id="3043" available="true">
+        <url>https://darwinshop.ru/shop/goods/kedr_sibirskiy_Sibirica_zks_bez_privivki_h81_100sm-3043</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1711.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1803.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1713.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Кедр Сибирский (Sibirica) ЗКС (без прививки) h81-100см</name>
+        <description/>
+        <param name="Высота растения">35-40м</param>
+        <param name="Ширина растения">до 2м</param>
+        <param name="Форма кроны">Коническая</param>
+        <param name="Цвет листьев/хвои">Зелёный</param>
+        <param name="Высота саженца">81-100</param>
+      </offer>
       <offer id="1715" available="true">
         <url>https://darwinshop.ru/shop/goods/kedr_sibirskiy_Sibirica_zks_s_privivkoy_h30_40sm-1715</url>
         <price>0</price>
@@ -8114,6 +8148,57 @@ Stravberry Sensation любит солнце, но урожай выше в ча
         <param name="Форма кроны">Коническая</param>
         <param name="Цвет листьев/хвои">Зелёный</param>
         <param name="Высота саженца">50см</param>
+      </offer>
+      <offer id="3045" available="true">
+        <url>https://darwinshop.ru/shop/goods/kedr_sibirskiy_Sibirica_zks_s_privivkoy_h61_70sm-3045</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1713.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1711.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1803.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Кедр Сибирский (Sibirica) ЗКС (с прививкой) h61-70см</name>
+        <description/>
+        <param name="Высота растения">350-400см</param>
+        <param name="Ширина растения">до 2м</param>
+        <param name="Форма кроны">Коническая</param>
+        <param name="Цвет листьев/хвои">Зелёный</param>
+        <param name="Высота саженца">61-70см</param>
+      </offer>
+      <offer id="3047" available="true">
+        <url>https://darwinshop.ru/shop/goods/kedr_sibirskiy_Sibirica_zks_s_privivkoy_h71_80sm-3047</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1713.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1711.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1803.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Кедр Сибирский (Sibirica) ЗКС (с прививкой) h71-80см</name>
+        <description/>
+        <param name="Высота растения">350-400см</param>
+        <param name="Ширина растения">до 2м</param>
+        <param name="Форма кроны">Коническая</param>
+        <param name="Цвет листьев/хвои">Зелёный</param>
+        <param name="Высота саженца">71-80см</param>
+      </offer>
+      <offer id="3049" available="true">
+        <url>https://darwinshop.ru/shop/goods/kedr_sibirskiy_Sibirica_zks_s_privivkoy_h81_100sm-3049</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1713.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1711.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1803.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Кедр Сибирский (Sibirica) ЗКС (с прививкой) h81-100см</name>
+        <description/>
+        <param name="Высота растения">350-400см</param>
+        <param name="Ширина растения">до 2м</param>
+        <param name="Форма кроны">Коническая</param>
+        <param name="Цвет листьев/хвои">Зелёный</param>
+        <param name="Высота саженца">81-100см</param>
       </offer>
       <offer id="1919" available="true">
         <url>https://darwinshop.ru/shop/goods/kizilnik_blestyaschiy_Cotoneaster_lucidus_-1919</url>
@@ -14385,6 +14470,20 @@ pH водной суспензии: От 3,0 до 4,1.
         <picture>https://darwinshop.ru/uploaded/images/shop/goods/1609-1.jpg</picture>
         <vendor>Сажень</vendor>
         <name>Традесканция</name>
+        <description/>
+      </offer>
+      <offer id="3053" available="true">
+        <url>https://darwinshop.ru/shop/goods/transportnyie_rashodyi-3053</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/321.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1077.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/273.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/741.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/837.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Транспортные расходы</name>
         <description/>
       </offer>
       <offer id="2435" available="true">

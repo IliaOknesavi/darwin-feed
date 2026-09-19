@@ -1,0 +1,42 @@
+{
+  "slug": "transportnyie_rashodyi-3053",
+  "url": "https://darwinshop.ru/shop/goods/transportnyie_rashodyi-3053",
+  "name": "Транспортные расходы",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {},
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/321.jpg",
+      "alt": "Гортензия Фантом (Phantom) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1077.jpg",
+      "alt": "Гортензия Сандей Фрайз (Sundae Fraise) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/273.jpg",
+      "alt": "Гортензия Ванилла Фрейз (Vanille Fraise) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/741.jpg",
+      "alt": "Гортензия Граффити (Graffiti) метельчатая"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/837.jpg",
+      "alt": "Гортензия Строуберри Блоссом (Strawberry Blossom) метельчатая"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-09-19T07:45:43.770692+00:00",
+  "parser_version": "fetch_missing-1"
+}
