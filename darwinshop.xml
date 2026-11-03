@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-02 10:27">
+<yml_catalog date="2026-11-03 10:25">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -1189,6 +1189,15 @@
         <param name="Размеры растения">до 4м</param>
         <param name="Размер плода">Небольшой</param>
         <param name="Цвет плода">Черный</param>
+      </offer>
+      <offer id="2759" available="true">
+        <url>https://darwinshop.ru/shop/goods/cherenok_oks-2759</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Черенок ОКС</name>
+        <description/>
       </offer>
       <offer id="1997" available="true">
         <url>https://darwinshop.ru/shop/goods/chernaya_smorodina_dar_smolyaninovoy_-1997</url>
@@ -3188,6 +3197,42 @@
         <name>Горечавка White magic, Р9, 500 мл</name>
         <description>&lt;h3&gt;Описание&lt;/h3&gt;
 Горечавка Вайт Мэджик — компактный почвопокровный многолетник. Образует плотные куртины высотой около 10–15 см и постепенно разрастается в ширину. Листья мелкие, продолговатые, насыщенно-зелёные, формируют аккуратный ковёр.&lt;br/&gt; &lt;br/&gt; Цветки крупные, воронковидные, направлены вверх. Окраска чисто белая, иногда с лёгким зеленоватым оттенком в глубине венчика, что придаёт цветению свежий и контрастный вид.&lt;br/&gt; &lt;br/&gt; Предпочитает солнечные участки или лёгкую полутень. Лучше всего развивается на рыхлых, хорошо дренированных почвах с постоянной умеренной влажностью. Оптимальна слабокислая реакция грунта. Не переносит пересыхания и застоя воды.&lt;br/&gt; &lt;br/&gt; Зимостойкость высокая, но в регионах с влажной зимой важно обеспечить хороший дренаж. В укрытии обычно не нуждается.&lt;br/&gt; &lt;br/&gt; Используется в альпинариях, рокариях, на переднем плане цветников и в контейнерах. Особенно эффектна в сочетании с хвойными и камнем.&lt;br/&gt; &lt;br/&gt; Размножается делением куртин и семенами. Деление проводят аккуратно, так как растение чувствительно к пересадке.</description>
+      </offer>
+      <offer id="2193" available="true">
+        <url>https://darwinshop.ru/shop/goods/gorshok_s_torfom_1l-2193</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Горшок с торфом 1л</name>
+        <description/>
+      </offer>
+      <offer id="2195" available="true">
+        <url>https://darwinshop.ru/shop/goods/gorshok_s_torfom_2l-2195</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Горшок с торфом 2л</name>
+        <description/>
+      </offer>
+      <offer id="2205" available="true">
+        <url>https://darwinshop.ru/shop/goods/gorshok_s_torfom_3l-2205</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Горшок с торфом 3л</name>
+        <description/>
+      </offer>
+      <offer id="2203" available="true">
+        <url>https://darwinshop.ru/shop/goods/gorshok_s_torfom_5l-2203</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Горшок с торфом 5л</name>
+        <description/>
       </offer>
       <offer id="2531" available="true">
         <url>https://darwinshop.ru/shop/goods/gortenziya_annabel_Annabelle_drevovidnaya-2531</url>
@@ -8978,6 +9023,20 @@ Stravberry Sensation любит солнце, но урожай выше в ча
         <description>&lt;h3&gt;Описание&lt;/h3&gt;
 Основные свойства:&lt;br/&gt; &lt;br/&gt; Удерживает влагу. Слой мульчи заметно снижает испарение воды из почвы, поэтому растения легче переносят засушливые периоды.&lt;br/&gt; &lt;br/&gt; Сдерживает сорняки. Плотный слой коры мешает прорастанию однолетних сорняков.&lt;br/&gt; &lt;br/&gt; Стабилизирует температуру почвы. Мульча защищает корни от перегрева летом и от резких перепадов температур, а в отдельных случаях — от лёгких заморозков.&lt;br/&gt; &lt;br/&gt; Улучшает структуру грунта. По мере разложения кора делает почву более рыхлой и воздухопроницаемой.&lt;br/&gt; &lt;br/&gt; Устойчива к гниению. Кедровая кора разлагается медленнее, чем многие другие виды органической мульчи, поэтому служит дольше.&lt;br/&gt; &lt;br/&gt; Обладает природными антисептическими свойствами. В составе есть вещества, которые сдерживают развитие некоторых патогенных грибов и снижают риск корневых гнилей</description>
       </offer>
+      <offer id="2197" available="true">
+        <url>https://darwinshop.ru/shop/goods/kora_listvennitsyi_10_sm_do_5_-2197</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2189.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2187.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2185.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2183.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Кора лиственницы 10+ см до 5%</name>
+        <description>&lt;h3&gt;Описание&lt;/h3&gt;
+Сохраняет влагу — сокращает число поливов и создаёт оптимальный микроклимат для растений.&lt;br/&gt;  Защищает от перепадов температур — корням не страшны ни ночные заморозки, ни летний зной.&lt;br/&gt;  Борется с сорняками — предотвращает их рост, а в комбинации с садовыми мембранами справляется даже с самыми агрессивными видами.&lt;br/&gt;  Антисептические свойства — благодаря природной защите лиственницы под мульчей не появится плесень, а растения получат дополнительную защиту от болезней.&lt;br/&gt;  Долговечность — служит в разы дольше сосновой мульчи.&lt;br/&gt;  Декоративность — придаёт клумбам ухоженный вид и подчёркивает границы цветников, да ещё и приятно пахнет!&lt;br/&gt;  Минимальное влияние на pH — почти не закисляет почву (всего до −0,3 единицы pH за 3 года).&lt;br/&gt; Где применять?&lt;br/&gt; Подходит для мульчирования:&lt;br/&gt; • клумб и цветников;&lt;br/&gt; • роз и пионов;&lt;br/&gt; • гортензий, голубики, вересков, рододендронов и других культур, предпочитающих слегка кислую почву;&lt;br/&gt; • хвойных растений;&lt;br/&gt; • клубники (даёт крупные ягоды с неповторимым ароматом).&lt;br/&gt; Толщина слоя:&lt;br/&gt; • для многолетних культур — 3–6 см;&lt;br/&gt; • для древесных — 5–8 см.&lt;br/&gt;  Важно: кора лиственницы не подходит для томатов, огурцов и других растений, предпочитающих нейтральные почвы. В этом случае лучше использовать компост или солому.</description>
+      </offer>
       <offer id="2183" available="true">
         <url>https://darwinshop.ru/shop/goods/kora_listvennitsyi_fraktsiya_0_1_sm-2183</url>
         <price>310</price>
@@ -10933,6 +10992,17 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Цвет листьев/хвои">Зелёно-голубой</param>
         <param name="Высота саженца">60-80см</param>
       </offer>
+      <offer id="3111" available="true">
+        <url>https://darwinshop.ru/shop/goods/mojjevelnik_kitayskiy_blyu_alps_Blue_Alps_s5_5_litrov_-3111</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2735.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1913.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Можжевельник китайский Блю Альпс</name>
+        <description/>
+      </offer>
       <offer id="1913" available="true">
         <url>https://darwinshop.ru/shop/goods/mojjevelnik_obyiknovennyiy_grin_karpet_Green_Carpet_-1913</url>
         <price>5490</price>
@@ -11177,6 +11247,15 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Размер дерева">до 2м</param>
         <param name="Размер саженца">0,3-0,8м</param>
       </offer>
+      <offer id="3077" available="true">
+        <url>https://darwinshop.ru/shop/goods/oblepiha_altayskaya-3077</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Облепиха Алтайская</name>
+        <description/>
+      </offer>
       <offer id="2041" available="true">
         <url>https://darwinshop.ru/shop/goods/oblepiha_assora-2041</url>
         <price>350</price>
@@ -11210,6 +11289,15 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Созревание">в середине августа.</param>
         <param name="Масса плода">110-140г</param>
         <param name="Вкус плода">кисло-сладкий</param>
+      </offer>
+      <offer id="3069" available="true">
+        <url>https://darwinshop.ru/shop/goods/oblepiha_chulyishmanka-3069</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Облепиха Чулышманка</name>
+        <description/>
       </offer>
       <offer id="1585" available="true">
         <url>https://darwinshop.ru/shop/goods/oblepiha_chuyskaya-1585</url>
@@ -11253,6 +11341,15 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Масса плода">100-120г</param>
         <param name="Вкус плода">кисло-сладкий</param>
       </offer>
+      <offer id="3073" available="true">
+        <url>https://darwinshop.ru/shop/goods/oblepiha_essel-3073</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Облепиха Эссель</name>
+        <description/>
+      </offer>
       <offer id="2047" available="true">
         <url>https://darwinshop.ru/shop/goods/oblepiha_etna-2047</url>
         <price>350</price>
@@ -11282,6 +11379,24 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
 Зимостойкость высокая.</description>
         <param name="Размер дерева">до 2м</param>
         <param name="Размер саженца">0,3-0,8м</param>
+      </offer>
+      <offer id="3071" available="true">
+        <url>https://darwinshop.ru/shop/goods/oblepiha_jemchujnitsa-3071</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Облепиха Жемчужница</name>
+        <description/>
+      </offer>
+      <offer id="3075" available="true">
+        <url>https://darwinshop.ru/shop/goods/oblepiha_klavdiya-3075</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Облепиха Клавдия</name>
+        <description/>
       </offer>
       <offer id="799" available="true">
         <url>https://darwinshop.ru/shop/goods/ochitok_sedum_ksenoks_Cecile_-799</url>
@@ -11449,6 +11564,24 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <categoryId>5</categoryId>
         <vendor>Сажень</vendor>
         <name>Озеленение</name>
+        <description/>
+      </offer>
+      <offer id="2199" available="true">
+        <url>https://darwinshop.ru/shop/goods/paket_bolshoy-2199</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Пакет Большой</name>
+        <description/>
+      </offer>
+      <offer id="2201" available="true">
+        <url>https://darwinshop.ru/shop/goods/paket_malenkiy-2201</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Пакет маленький</name>
         <description/>
       </offer>
       <offer id="819" available="true">
@@ -15911,6 +16044,20 @@ P 11% фосфор (P2O5),
         <param name="Масса плода">120-130г</param>
         <param name="Вкус плода">сочный,с буквально тающей во рту мякотью, отличного десертного кисло-сладкого вкуса ,с приятным ароматом.</param>
       </offer>
+      <offer id="3085" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_krupnoplodnaya_desertnoe_isaeva_-3085</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1127.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2703.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2925.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2931.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2927.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня крупноплодная «Десертное Исаева»</name>
+        <description/>
+      </offer>
       <offer id="1123" available="true">
         <url>https://darwinshop.ru/shop/goods/yablonya_krupnoplodnaya_elena_-1123</url>
         <price>800</price>
@@ -16362,6 +16509,20 @@ P 11% фосфор (P2O5),
         <param name="Происхождение">С.И. Исаев, Папировка × Пепин шафранный</param>
         <param name="Госреестр">не включён</param>
       </offer>
+      <offer id="3081" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_mechta_zks-3081</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2921.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2915.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2919.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2931.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2927.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня &quot;Мечта&quot; ЗКС</name>
+        <description/>
+      </offer>
       <offer id="2917" available="true">
         <url>https://darwinshop.ru/shop/goods/yablonya_medunitsa_zks-2917</url>
         <price>800</price>
@@ -16436,6 +16597,20 @@ P 11% фосфор (P2O5),
         <param name="Опылитель">частично самоплоден, но опылитель нужен</param>
         <param name="Начало плодоношения">3-й год</param>
         <param name="Происхождение">С.И. Исаев, Уэлси × Коричное полосатое</param>
+      </offer>
+      <offer id="3079" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_medunitsa_zks-3079</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2927.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2925.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2931.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2921.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2919.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня &quot;Медуница&quot; ЗКС</name>
+        <description/>
       </offer>
       <offer id="2925" available="true">
         <url>https://darwinshop.ru/shop/goods/yablonya_melba_zks-2925</url>
@@ -16907,6 +17082,20 @@ P 11% фосфор (P2O5),
         <param name="Опылитель">обязателен</param>
         <param name="Происхождение">не установлено</param>
         <param name="Госреестр">не найден</param>
+      </offer>
+      <offer id="3083" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_polukulturnaya_nevolinskoe_zks-3083</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2925.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2931.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2927.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2921.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2919.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня полукультурная &quot;Неволинское&quot; ЗКС</name>
+        <description/>
       </offer>
       <offer id="2133" available="true">
         <url>https://darwinshop.ru/shop/goods/yablonya_polukulturnaya_sinap_minusinskiy_bakchar_-2133</url>

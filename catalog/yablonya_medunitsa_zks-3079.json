@@ -1,0 +1,42 @@
+{
+  "slug": "yablonya_medunitsa_zks-3079",
+  "url": "https://darwinshop.ru/shop/goods/yablonya_medunitsa_zks-3079",
+  "name": "Яблоня \"Медуница\" ЗКС",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {},
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2927.jpg",
+      "alt": "Яблоня полукультурная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2925.jpg",
+      "alt": "Яблоня "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2931.jpg",
+      "alt": "Яблоня полукультурная "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2921.jpg",
+      "alt": "Яблоня "
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/2919.jpg",
+      "alt": "Яблоня "
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-11-03T10:25:17.620972+00:00",
+  "parser_version": "fetch_missing-1"
+}
