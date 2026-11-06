@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-05 10:15">
+<yml_catalog date="2026-11-06 10:18">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -706,6 +706,19 @@
         <param name="Цвет цветка">жёлтый, красные ягоды</param>
         <param name="Рост взрослого растения">Высотой до 2,5м., в диаметре 1.8м.</param>
         <param name="Цвет растения">Пурпурный</param>
+      </offer>
+      <offer id="3123" available="true">
+        <url>https://darwinshop.ru/shop/goods/barbaris_tunberga_aurea_-3123</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1709.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1435.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1433.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1739.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Барбарис &quot;Тунберга Ауреа&quot;</name>
+        <description/>
       </offer>
       <offer id="2747" available="true">
         <url>https://darwinshop.ru/shop/goods/barbaris_tunberga_bagatel_Bagatelle_-2747</url>
@@ -15370,6 +15383,15 @@ P 11% фосфор (P2O5),
         <description>&lt;h3&gt;Описание&lt;/h3&gt;
 В цветении вероника колосистая 'Anniversary Blue' напоминает плотный веер из коротких синих свечей. Низкая подушка тёмно-зелёной листвы держит ровный контур, из которого поднимаются десятки прямых цветоносов. Каждый колос плотно набит мелкими цветками насыщенного синего тона, местами уходящего в индиго, и за счёт этой плотности соцветия выглядят почти цельными цветными штрихами. Высота свечей невелика, но их так много, что над кустом образуется густое синее поле, разбитое на отдельные, аккуратно выстроенные шпильки. &lt;br/&gt; При солнечном освещении лепестки чуть поблёскивают, оттенок становится ярче и живее, а в рассеянном свете синеву будто немного приглушают, и она уходит в благородный, более глубокий тон.&lt;br/&gt; &lt;br/&gt; Характеристики:&lt;br/&gt; Высота: 30–45 (до 50–60) см&lt;br/&gt; Ширина куртины: 30–45 см&lt;br/&gt; Цвет цветков: яркий, глубокий синий / сине-фиолетовый&lt;br/&gt; Форма соцветий: короткие, плотные колосовидные «шпильки»&lt;br/&gt; Аромат: слабый, почти неощутимый</description>
       </offer>
+      <offer id="3121" available="true">
+        <url>https://darwinshop.ru/shop/goods/veronika_kolosistaya_Anniversary_New_Rose-3121</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Сажень</vendor>
+        <name>Вероника колосистая Anniversary New Rose</name>
+        <description/>
+      </offer>
       <offer id="2817" available="true">
         <url>https://darwinshop.ru/shop/goods/veronikastrum_Album-2817</url>
         <price>350</price>
@@ -15927,6 +15949,20 @@ P 11% фосфор (P2O5),
         <param name="Созревание">в середине августа.</param>
         <param name="Масса плода">в среднем 90–120 г, но на молодых деревьях плоды крупнее (до 200 г), а с возрастом мельчают.</param>
         <param name="Вкус плода">Вкус кисло-сладкий, с винными нотками; по мере созревания сладость усиливается.</param>
+      </offer>
+      <offer id="3119" available="true">
+        <url>https://darwinshop.ru/shop/goods/yablonya_bolshaya_7_l_-3119</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/3067.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/3063.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2927.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/3081.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2925.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Яблоня большая (7+ л)</name>
+        <description/>
       </offer>
       <offer id="2915" available="true">
         <url>https://darwinshop.ru/shop/goods/yablonya_chudnoe_-2915</url>

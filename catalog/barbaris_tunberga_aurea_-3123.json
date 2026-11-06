@@ -1,0 +1,38 @@
+{
+  "slug": "barbaris_tunberga_aurea_-3123",
+  "url": "https://darwinshop.ru/shop/goods/barbaris_tunberga_aurea_-3123",
+  "name": "Барбарис \"Тунберга Ауреа\"",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {},
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1709.jpg",
+      "alt": "Барбарис Тунберга Арлекин (Harlequin)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1435.jpg",
+      "alt": "Барбарис Тунберга Атропурпуреа"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1433.jpg",
+      "alt": "Барбарис Тунберга Адмирейшн"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1739.jpg",
+      "alt": "Барбарис Тунберга Golden Nugget"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-11-06T10:18:06.623490+00:00",
+  "parser_version": "fetch_missing-1"
+}
