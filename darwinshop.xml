@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-06 10:18">
+<yml_catalog date="2026-11-07 09:33">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -2824,6 +2824,20 @@
         <param name="Цветы">Белые</param>
         <param name="Размеры растения">Куст высотой 20-30 см</param>
         <param name="Окрас листьев">Красные</param>
+      </offer>
+      <offer id="3125" available="true">
+        <url>https://darwinshop.ru/shop/goods/geyhera_sashey_Sashey_-3125</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/345.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/417.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/409.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1447.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1475.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Гейхера Сашей (Sashey)</name>
+        <description/>
       </offer>
       <offer id="863" available="true">
         <url>https://darwinshop.ru/shop/goods/geyhera_sauzen_komfort_Southern_Comfort_-863</url>

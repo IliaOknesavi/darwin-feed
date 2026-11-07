@@ -1,0 +1,42 @@
+{
+  "slug": "geyhera_sashey_Sashey_-3125",
+  "url": "https://darwinshop.ru/shop/goods/geyhera_sashey_Sashey_-3125",
+  "name": "Гейхера Сашей (Sashey)",
+  "culture": "Основные категории",
+  "category_path": [
+    "Каталог",
+    "Каталог",
+    "Основные категории"
+  ],
+  "price_rub": null,
+  "price_text": null,
+  "availability": "",
+  "attributes": {},
+  "description_html": "",
+  "description_text": "",
+  "images": [
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/345.jpg",
+      "alt": "Гейхерелла Брасс Лантерн (Brass Lantern)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/417.jpg",
+      "alt": "Гейхера Сноу Энджел (Snow Angel)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/409.jpg",
+      "alt": "Гейхера Эмбер Вейвз (Amber Waves)"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1447.jpg",
+      "alt": "Гейхера № 6"
+    },
+    {
+      "url": "https://darwinshop.ru/uploaded/images/shop/goods/1475.jpg",
+      "alt": "Гейхера № 1"
+    }
+  ],
+  "raw_html_path": null,
+  "fetched_at": "2026-11-07T09:33:08.566303+00:00",
+  "parser_version": "fetch_missing-1"
+}
