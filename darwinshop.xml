@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-11 10:13">
+<yml_catalog date="2026-11-12 10:35">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -14310,6 +14310,20 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <param name="Ширина растения">10-20 м</param>
         <param name="Цвет листьев/хвои">Зелёный</param>
         <param name="Высота саженца">30-40см</param>
+      </offer>
+      <offer id="3127" available="true">
+        <url>https://darwinshop.ru/shop/goods/spireya_albiflora_Albiflora_-3127</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/571.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/555.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/563.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/771.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/707.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Спирея &quot;Альбифлора&quot; (Albiflora)</name>
+        <description/>
       </offer>
       <offer id="571" available="true">
         <url>https://darwinshop.ru/shop/goods/spireya_frobeli_Froebelii_-571</url>
