@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 10:35">
+<yml_catalog date="2026-11-13 10:27">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -1636,6 +1636,26 @@
         <param name="Высота растения">до 2 м</param>
         <param name="Высота саженца">30-50 см</param>
         <param name="Цвет листа">бело-зелёный с пятнами</param>
+      </offer>
+      <offer id="3133" available="true">
+        <url>https://darwinshop.ru/shop/goods/deren_belyiy_Elegantissima-3133</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2995.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Дерен белый Elegantissima</name>
+        <description/>
+      </offer>
+      <offer id="3135" available="true">
+        <url>https://darwinshop.ru/shop/goods/deren_belyiy_gouchaulti_Gouchaultii_-3135</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/2995.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Дерен белый Гоучаулти (Gouchaultii)</name>
+        <description/>
       </offer>
       <offer id="2995" available="true">
         <url>https://darwinshop.ru/shop/goods/deren_belyiy_shpeta_Spaethii_-2995</url>
@@ -3800,6 +3820,20 @@ Forever and Ever Red (Форевер Энд Эвер Ред) – новый со
         <param name="Период цветения">Июль-октябрь</param>
         <param name="Цветы">Белый</param>
       </offer>
+      <offer id="3129" available="true">
+        <url>https://darwinshop.ru/shop/goods/gortenziya_grandiflora_Grandiflora_metelchataya-3129</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/329.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/337.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1077.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1041.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1039.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Гортензия Грандифлора (Grandiflora) метельчатая</name>
+        <description/>
+      </offer>
       <offer id="1829" available="true">
         <url>https://darwinshop.ru/shop/goods/gortenziya_indian_sammer_red_velvet_metelchataya-1829</url>
         <price>420</price>
@@ -4097,6 +4131,20 @@ Forever and Ever Red (Форевер Энд Эвер Ред) – новый со
         <param name="Соцветия">крупные, 30-35 см в длину.</param>
         <param name="Период цветения">июнь-октябрь</param>
       </offer>
+      <offer id="3131" available="true">
+        <url>https://darwinshop.ru/shop/goods/gortenziya_medjikal_kendl_Magical_Candle_metelchataya-3131</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/337.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/329.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1077.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1041.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/763.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Гортензия Мэджикал Кэндл (Magical Candle) метельчатая</name>
+        <description/>
+      </offer>
       <offer id="1235" available="true">
         <url>https://darwinshop.ru/shop/goods/gortenziya_medjikal_kilimandjaro_Magical_Kilimanjaro_metelchataya-1235</url>
         <price>420</price>
@@ -4260,6 +4308,20 @@ Forever and Ever Red (Форевер Энд Эвер Ред) – новый со
         <param name="Диаметр куста">до 100 см</param>
         <param name="Соцветия">Крупные, 50см</param>
         <param name="Период цветения">Июнь-октябрь</param>
+      </offer>
+      <offer id="3139" available="true">
+        <url>https://darwinshop.ru/shop/goods/gortenziya_metelchataya_miks_C5_5_litrov_-3139</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/337.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/329.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1077.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1041.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/763.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Гортензия метельчатая Микс (C5, 5 литров)</name>
+        <description/>
       </offer>
       <offer id="289" available="true">
         <url>https://darwinshop.ru/shop/goods/gortenziya_mohito_Mojito_metelchataya-289</url>
@@ -14323,6 +14385,20 @@ Crackle &amp;amp; Pop - это новый карликовый сорт ранн
         <picture>https://darwinshop.ru/uploaded/images/shop/goods/707.jpg</picture>
         <vendor>Сажень</vendor>
         <name>Спирея &quot;Альбифлора&quot; (Albiflora)</name>
+        <description/>
+      </offer>
+      <offer id="3137" available="true">
+        <url>https://darwinshop.ru/shop/goods/spireya_berezolistnaya_tor_Tor_-3137</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/571.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/771.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/555.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/707.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/703.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Спирея березолистная Тор (Tor)</name>
         <description/>
       </offer>
       <offer id="571" available="true">
