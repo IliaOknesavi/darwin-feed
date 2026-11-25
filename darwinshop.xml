@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 13:12">
+<yml_catalog date="2026-11-25 12:01">
   <shop>
     <name>Сажень</name>
     <company>Питомник «Сажень»</company>
@@ -4308,6 +4308,20 @@ Forever and Ever Red (Форевер Энд Эвер Ред) – новый со
         <param name="Диаметр куста">до 100 см</param>
         <param name="Соцветия">Крупные, 50см</param>
         <param name="Период цветения">Июнь-октябрь</param>
+      </offer>
+      <offer id="3141" available="true">
+        <url>https://darwinshop.ru/shop/goods/gortenziya_metelchataya_miks_C3_3_litra_-3141</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/821.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/1077.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/337.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/329.jpg</picture>
+        <picture>https://darwinshop.ru/uploaded/images/shop/goods/3139.jpg</picture>
+        <vendor>Сажень</vendor>
+        <name>Гортензия метельчатая Микс (C3, 3 литра)</name>
+        <description/>
       </offer>
       <offer id="3139" available="true">
         <url>https://darwinshop.ru/shop/goods/gortenziya_metelchataya_miks_C5_5_litrov_-3139</url>
